@@ -1,0 +1,169 @@
+---
+title: 'Migrating from Google Drive to Nextcloud'
+description: 'Step-by-step guide for moving your files from Google Drive to Nextcloud'
+difficulty: 'intermediate'
+timeRequired: '1-2 hours'
+sourceService: 'Google Drive'
+targetService: 'Nextcloud'
+date: '2025-04-08'
+author: 'Switch-to.EU Team'
+---
+
+# Migrating from Google Drive to Nextcloud
+
+Nextcloud is an open-source file hosting solution that gives you complete control over your data. Unlike Google Drive, which stores your files on Google's servers, Nextcloud can be self-hosted or used through EU-based providers, ensuring your data stays within European jurisdiction.
+
+## Why Switch to Nextcloud?
+
+Google Drive offers convenience but at the cost of privacy. Here's why Nextcloud is a better alternative:
+
+- **Data sovereignty**: Host your files on EU servers or your own hardware
+- **Complete privacy**: No data mining or analysis of your content
+- **Flexible deployment**: Choose between self-hosting or managed hosting
+- **Feature-rich**: Calendar, contacts, office suite, and more built-in apps
+- **Open-source**: Transparent code and development process
+
+## Before You Begin
+
+### Prerequisites
+
+- An active Google Drive account
+- A Nextcloud account (either self-hosted or through a provider)
+- Stable internet connection
+- Sufficient storage space on your Nextcloud account
+
+### What You'll Need
+
+- A computer with a web browser
+- Google Takeout (for bulk exports)
+- Nextcloud desktop client (recommended)
+- 1-2 hours of time (depending on the amount of data)
+
+## Step 1: Set Up Your Nextcloud Account
+
+If you haven't already, you'll need to set up a Nextcloud account:
+
+### Option A: Choose a Nextcloud Provider
+
+Several EU-based providers offer managed Nextcloud hosting:
+
+1. Visit [Nextcloud providers list](https://nextcloud.com/providers/)
+2. Select a provider based in the EU (e.g., Hetzner, OVHcloud, etc.)
+3. Sign up for an account and note your login details
+
+### Option B: Self-Host Nextcloud
+
+If you prefer to self-host (more technical):
+
+1. Rent a server from an EU provider or use your own hardware
+2. Follow the [official Nextcloud installation guide](https://docs.nextcloud.com/server/latest/admin_manual/installation/)
+3. Set up your domain and SSL certificates
+
+## Step 2: Install the Nextcloud Desktop Client
+
+For easier file management, install the Nextcloud desktop client:
+
+1. Download the client from [Nextcloud's website](https://nextcloud.com/clients/)
+2. Install the application on your computer
+3. Open the client and connect to your Nextcloud server
+4. Configure sync settings for your folders
+
+## Step 3: Export Your Google Drive Files
+
+There are two methods to transfer your files, depending on how much data you have:
+
+### Method 1: Direct Download and Upload (Small Amount of Data)
+
+For a few important files:
+
+1. Open [Google Drive](https://drive.google.com) in your browser
+2. Select the files/folders you want to transfer
+3. Click "Download" from the right-click menu
+4. Once downloaded, open your Nextcloud web interface
+5. Click the "+" icon and select "Upload file" or "Upload folder"
+6. Select the downloaded files from your computer
+
+### Method 2: Google Takeout (Large Amount of Data)
+
+For all your Google Drive data:
+
+1. Go to [Google Takeout](https://takeout.google.com/)
+2. Deselect all services except "Drive"
+3. Click "Next step"
+4. Choose your delivery method (export frequency: "Export once")
+5. Choose file type (ZIP recommended) and size (max 50GB recommended)
+6. Click "Create export"
+7. Wait for Google to prepare your export (you'll receive an email)
+8. Download the export files once ready
+9. Extract the ZIP files on your computer
+10. Upload the extracted files to Nextcloud using the web interface or desktop client
+
+## Step 4: Organize Your Files in Nextcloud
+
+After uploading your files to Nextcloud:
+
+1. Log in to your Nextcloud web interface
+2. Create folders to organize your content if needed
+3. Move your uploaded files into the appropriate folders
+4. Set sharing permissions for folders if collaborating with others
+
+## Step 5: Verify File Integrity
+
+Ensure all your files transferred correctly:
+
+1. Check that the number of files matches what you had in Google Drive
+2. Open several random files to verify they work properly
+3. Verify that special files (Google Docs, Sheets, etc.) were properly converted
+
+> **Note:** Google Docs, Sheets, and other Google-specific formats will be exported as Microsoft Office or OpenDocument formats. Some formatting may change during this conversion.
+
+## Step 6: Set Up Nextcloud Mobile App (Optional)
+
+For mobile access to your files:
+
+1. Download the Nextcloud app from Google Play Store or Apple App Store
+2. Open the app and enter your server address
+3. Log in with your Nextcloud credentials
+4. Configure auto-upload for photos if desired
+
+## Step 7: Explore Nextcloud Features
+
+Nextcloud offers many features beyond storage:
+
+1. Check out the "Apps" section in your Nextcloud dashboard
+2. Consider enabling:
+   - Nextcloud Calendar for scheduling
+   - Contacts for address book management
+   - Collabora Online for document editing
+   - Talk for secure messaging
+
+## Troubleshooting
+
+### Common Issues
+
+- **Upload failures**: Try uploading in smaller batches or use the desktop client
+- **File size limits**: Check your Nextcloud instance's maximum file size setting
+- **Sync issues**: Ensure your desktop client has the latest version
+- **Conversion problems**: Some Google-specific files may need manual attention
+
+### Getting Help
+
+If you encounter issues:
+
+- Visit the [Nextcloud support forum](https://help.nextcloud.com/)
+- Check the [official documentation](https://docs.nextcloud.com/)
+- Contact your Nextcloud provider if using a hosted solution
+
+## Conclusion
+
+Congratulations! You've successfully migrated from Google Drive to Nextcloud. You now have control over your data while still enjoying powerful file storage and sharing capabilities.
+
+Remember to:
+
+- Regularly back up your Nextcloud data
+- Keep your Nextcloud instance updated for security
+- Explore additional Nextcloud apps to replace other Google services
+
+---
+
+_This guide was last updated on April 8, 2025. If you find outdated information, please [let us know](https://github.com/yourusername/switch-to.eu)._
