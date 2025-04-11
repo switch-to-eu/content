@@ -8,7 +8,7 @@ freeOption: true
 startingPrice: '€1.99/month for 100GB'
 description: 'Cloud storage and file synchronization service by Google.'
 url: 'https://drive.google.com/'
-featured: false
+featured: true
 recommendedAlternative: 'nextcloud'
 issues:
   - 'Scans and analyzes your stored content'

@@ -8,7 +8,7 @@ freeOption: true
 startingPrice: 'Free'
 description: 'Popular messaging app owned by Meta (Facebook) with end-to-end encryption.'
 url: 'https://www.whatsapp.com/'
-featured: false
+featured: true
 recommendedAlternative: 'signal'
 issues:
   - 'Owned by Meta (Facebook) with questionable privacy practices'

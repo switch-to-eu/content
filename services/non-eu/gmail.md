@@ -8,7 +8,7 @@ freeOption: true
 startingPrice: 'Free'
 description: 'Popular email service by Google with advanced features and integration with Google Workspace.'
 url: 'https://gmail.com/'
-featured: false
+featured: true
 recommendedAlternative: 'protonmail'
 issues:
   - 'Scans email content for data mining and targeted ads'
