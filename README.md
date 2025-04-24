@@ -8,8 +8,6 @@ A community-driven platform helping users switch from non-EU digital services to
 
 Switch-to.eu empowers users to regain digital sovereignty by providing:
 
-TEST
-
 - **Migration Guides**: Step-by-step instructions to switch from non-EU services to EU alternatives
 - **EU Alternative Listings**: Comprehensive database of EU digital services by category
 - **Community Contributions**: GitHub-based collaboration for content improvement and expansion
