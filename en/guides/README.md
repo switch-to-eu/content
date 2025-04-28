@@ -25,6 +25,110 @@ Guides are organized by service category:
 - `productivity` - Office and productivity tools
 - `analytics` - Analytics and tracking tools
 
+## Content Segmentation
+
+Our platform supports logical content segmentation within MDX files. This makes content more maintainable and provides a better structure for guides while remaining readable in standard markdown editors.
+
+### Segmentation Format
+
+To segment your content, use the following syntax:
+
+```md
+---section:sectionname
+Your markdown content goes here.
+Content can span multiple paragraphs.
+---
+```
+
+### Standard Sections
+
+We recommend using these standard section names for guides:
+
+- `intro`: Introduction and overview of the migration
+- `before`: Prerequisites and preparation steps
+- `steps`: The step-by-step migration process
+- `troubleshooting`: Common issues and solutions
+- `outro`: Conclusion and final notes
+
+### Example of Segmented Content
+
+Here's how a segmented guide should be structured:
+
+```md
+---
+title: 'Migrating from Service A to Service B'
+description: 'Step-by-step guide for moving from Service A to Service B'
+difficulty: 'beginner'
+timeRequired: '30 minutes'
+sourceService: 'Service A'
+targetService: 'Service B'
+date: '2025-04-08'
+author: 'Switch-to.EU Team'
+---
+
+---section:intro
+# Migrating from Service A to Service B
+
+Service B is a secure EU-based alternative to Service A. This guide will help you migrate your data.
+
+## Why Switch to Service B?
+
+Key benefits of Service B include:
+- EU-based infrastructure
+- Enhanced privacy features
+- GDPR compliance
+---
+
+---section:before
+## Before You Begin
+
+### Prerequisites
+- An active Service A account
+- A computer with internet access
+- Approximately 30 minutes of time
+
+### What You'll Need
+- A secure password for your new Service B account
+---
+
+---section:steps
+## Step 1: Create a Service B Account
+
+1. Visit Service B's website
+2. Click on "Sign Up"
+3. Enter your details and create your account
+
+## Step 2: Export Your Data from Service A
+
+1. Log in to Service A
+2. Go to Settings
+3. Find the Export option and download your data
+---
+
+---section:troubleshooting
+## Troubleshooting
+
+### Common Issues
+- **Login problems**: Make sure your credentials are correct
+- **Missing data**: Check if all data was properly exported
+
+### Getting Help
+If you encounter issues, contact Service B's support team
+---
+
+---section:outro
+## Conclusion
+
+Congratulations! You've successfully migrated from Service A to Service B.
+
+Remember to update your login information on other services that might be linked.
+---
+```
+
+### Backward Compatibility
+
+The segmentation system is backward-compatible. Non-segmented content will continue to work correctly. If you're updating existing guides, consider adding segmentation to improve maintainability.
+
 ## Creating a New Guide
 
 To create a new migration guide:
