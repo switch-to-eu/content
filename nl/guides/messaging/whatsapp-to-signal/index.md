@@ -13,7 +13,7 @@ missingFeatures:
   - 'Contactontdekking: Signal vereist dat beide gebruikers de app hebben geïnstalleerd voordat ze met elkaar kunnen communiceren'
 ---
 
----section:intro
+<!-- section:intro -->
 
 ## Waarom Overstappen naar Signal?
 
@@ -25,28 +25,28 @@ Hoewel WhatsApp end-to-end encryptie biedt, zijn er verschillende overtuigende r
 - **Onafhankelijk**: Beheerd door de Signal Foundation, een non-profitorganisatie
 - **EU-vriendelijk**: Voldoet aan de AVG en respecteert de privacyrechten van gebruikers
 
----
+<!-- end-section -->
 
----section:before
+<!-- section:before -->
 
-## Voordat Je Begint
-
-### Vereisten
+### Wat Je Nodig Hebt
 
 - Een smartphone (Android of iOS)
 - Een telefoonnummer (Signal gebruikt dit als je identificatiemiddel)
 - Internetverbinding (WiFi aanbevolen voor initiële setup)
-
-### Wat Je Nodig Hebt
-
 - Ongeveer 30 minuten
 - Geduld terwijl je je sociale netwerk overzet
 
----
+<!-- end-section -->
 
----section:steps
+<!-- section:steps -->
 
-## Stap 1: Installeer de Signal App
+<!-- step-start -->
+<!-- step-meta
+title: "Installeer de Signal App"
+complete: true
+video: "media/signal1.mp4"
+-->
 
 1. Open op je smartphone de app store:
 
@@ -58,12 +58,14 @@ Hoewel WhatsApp end-to-end encryptie biedt, zijn er verschillende overtuigende r
 3. Download en installeer de app door op "Installeren" of "Downloaden" te tikken
 
 4. Zodra geïnstalleerd, open de Signal app
+<!-- step-end -->
 
-[complete]
-
-!video[media/signal1.mp4](Installeer de Signal App)
-
-## Stap 2: Stel Je Signal-Account In
+<!-- step-start -->
+<!-- step-meta
+title: "Stel Je Signal-Account In"
+complete: true
+video: "media/signal2.mp4"
+-->
 
 1. Tik op "Doorgaan" op het welkomstscherm
 
@@ -87,12 +89,14 @@ Hoewel WhatsApp end-to-end encryptie biedt, zijn er verschillende overtuigende r
    - Deze PIN helpt je Signal-account te beveiligen tijdens herregistratie
    - Kies een PIN van minstens 4 cijfers
    - Onthoud deze PIN; je hebt deze nodig als je Signal opnieuw installeert
+<!-- step-end -->
 
-[complete]
-
-!video[media/signal2.mp4](Stel Je Signal-Account In)
-
-## Stap 3: Vind Je Contacten op Signal
+<!-- step-start -->
+<!-- step-meta
+title: "Vind Je Contacten op Signal"
+video: "media/signal3.mp4"
+complete: true
+-->
 
 1. Signal controleert automatisch welke van je contacten al Signal gebruiken
 
@@ -104,10 +108,14 @@ Hoewel WhatsApp end-to-end encryptie biedt, zijn er verschillende overtuigende r
    - Tik op hun naam in de lijst "Uitnodigen voor Signal"
    - Signal bereidt een SMS-uitnodigingsbericht voor
    - Stuur het bericht om hen uit te nodigen om deel te nemen
+<!-- step-end -->
 
-[complete]
-
-## Stap 4: Maak Belangrijke Groepen Aan
+<!-- step-start -->
+<!-- step-meta
+title: "Maak Belangrijke Groepen Aan"
+video: "media/signal4.mp4"
+complete: true
+-->
 
 Als je afhankelijk bent van WhatsApp-groepen, wil je deze opnieuw aanmaken in Signal:
 
@@ -122,10 +130,14 @@ Als je afhankelijk bent van WhatsApp-groepen, wil je deze opnieuw aanmaken in Si
 5. Tik op "Aanmaken" om de groep te voltooien
 
 6. Stuur een welkomstbericht om iedereen te laten weten waar de groep voor is
+<!-- step-end -->
 
-[complete]
-
-## Stap 5: Informeer Je Contacten
+<!-- step-start -->
+<!-- step-meta
+title: "Informeer Je Contacten"
+video: "media/signal5.mp4"
+complete: true
+-->
 
 Het meest uitdagende deel van overstappen is ervoor zorgen dat je contacten weten je op Signal te bereiken:
 
@@ -136,10 +148,14 @@ Het meest uitdagende deel van overstappen is ervoor zorgen dat je contacten wete
 3. Kondig in groepschats die je regelmatig gebruikt je overstap aan en nodig anderen uit om deel te nemen
 
 4. Overweeg om WhatsApp geïnstalleerd te houden tijdens een overgangsperiode (meestal 2-4 weken)
+<!-- step-end -->
 
-[complete]
-
-## Stap 6: Signal-instellingen Aanpassen
+<!-- step-start -->
+<!-- step-meta
+title: "Signal-instellingen Aanpassen"
+video: "media/signal6.mp4"
+complete: true
+-->
 
 Laat Signal het beste voor je werken door instellingen aan te passen:
 
@@ -157,10 +173,14 @@ Laat Signal het beste voor je werken door instellingen aan te passen:
    - **Verdwijnende berichten**: Stel standaardtimers in voor berichten om automatisch te verwijderen
    - **Schermvergrendeling**: Voeg een extra beveiligingslaag toe met een schermvergrendeling
    - **Leesbevestigingen**: Kies of anderen zien wanneer je berichten hebt gelezen
+<!-- step-end -->
 
-[complete]
-
-## Stap 8: Leer Signal-specifieke Functies
+<!-- step-start -->
+<!-- step-meta
+title: "Leer Signal-specifieke Functies"
+video: "media/signal6.mp4"
+complete: true
+-->
 
 Signal heeft enkele unieke functies die het verkennen waard zijn:
 
@@ -173,12 +193,11 @@ Signal heeft enkele unieke functies die het verkennen waard zijn:
 4. **Stickers**: Maak en gebruik versleutelde stickers
 
 5. **Veiligheidsnummers**: Verifieer de beveiliging van je gesprekken
+<!-- step-end -->
 
-[complete]
+<!-- end-section -->
 
----
-
----section:troubleshooting
+<!-- section:troubleshooting -->
 
 ## Probleemoplossing
 
@@ -196,9 +215,9 @@ Als je problemen ondervindt:
 - Raadpleeg Signal's [Community Forum](https://community.signalusers.org/)
 - E-mail Signal op support@signal.org
 
----
+<!-- end-section -->
 
----section:outro
+<!-- section:outro -->
 
 ## Conclusie
 
@@ -206,4 +225,4 @@ Gefeliciteerd! Je bent succesvol gemigreerd van WhatsApp naar Signal. Je gebruik
 
 Onthoud dat het netwerkeffect belangrijk is voor berichtenapps - hoe meer vrienden je overtuigt om deel te nemen aan Signal, hoe nuttiger het wordt. Wees geduldig tijdens de overgangsperiode, aangezien het tijd kan kosten voordat je contacten zich bij je voegen.
 
----
+<!-- end-section -->

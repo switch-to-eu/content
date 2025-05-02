@@ -5,7 +5,7 @@ difficulty: 'beginner'
 timeRequired: '30 minutes'
 sourceService: 'WhatsApp'
 targetService: 'Signal'
-date: '2025-04-08'
+date: '2025-05-0'
 author: 'Switch-to.EU Team'
 missingFeatures:
   - "Cloud backup limitations: Unlike WhatsApp, Signal doesn't offer cloud backups to Google Drive or iCloud"

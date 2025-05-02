@@ -8,7 +8,7 @@ Elke migratiegids moet in de juiste categoriemap worden geplaatst en deze struct
 
 ```
 /content/guides/[categorie]/[service-naam]/
-├── index.mdx          # De hoofdinhoud van de gids
+├── index.md          # De hoofdinhoud van de gids
 └── images/            # Afbeeldingenmap voor screenshots en diagrammen
     ├── step1.png
     ├── step2.png
@@ -31,13 +31,13 @@ Ons platform ondersteunt logische inhoudssegmentatie binnen MDX-bestanden. Dit m
 
 ### Segmentatieformaat
 
-Om je inhoud te segmenteren, gebruik je de volgende syntax:
+Om je inhoud te segmenteren, gebruik je de volgende HTML-commentaarsyntax:
 
 ```md
----section:sectienaam
+<!-- section:sectienaam -->
 Je markdown-inhoud komt hier.
 Inhoud kan meerdere alinea's beslaan.
----
+<!-- end-section -->
 ```
 
 ### Standaardsecties
@@ -49,6 +49,30 @@ We raden aan deze standaard sectienamen te gebruiken voor gidsen:
 - `steps`: Het stap-voor-stap migratieproces
 - `troubleshooting`: Veelvoorkomende problemen en oplossingen
 - `outro`: Conclusie en laatste opmerkingen
+
+### Stappen Formaat
+
+Binnen de `steps` sectie, gebruik je deze syntax voor elke stap:
+
+```md
+<!-- step-start -->
+<!-- step-meta
+title: "Naam van de Stap"
+complete: true
+video: "pad/naar/video.mp4"
+-->
+
+1. Dit is de eerste instructie in de stap
+2. Dit is de tweede instructie
+
+Meer details en uitleg kunnen hier worden toegevoegd.
+<!-- step-end -->
+```
+
+De `step-meta` sectie ondersteunt de volgende velden:
+- `title`: Titel van de stap (verplicht)
+- `complete`: Boolean die aangeeft of de stap een voltooiingsknop moet hebben (optioneel, standaard: false)
+- `video`: Pad naar een instructievideo voor deze stap (optioneel)
 
 ### Voorbeeld van Gesegmenteerde Inhoud
 
@@ -66,7 +90,7 @@ date: '2025-04-08'
 author: 'Switch-to.EU Team'
 ---
 
----section:intro
+<!-- section:intro -->
 # Migreren van Service A naar Service B
 
 Service B is een veilig EU-gebaseerd alternatief voor Service A. Deze gids helpt je bij het migreren van je gegevens.
@@ -77,9 +101,9 @@ De belangrijkste voordelen van Service B zijn:
 - EU-gebaseerde infrastructuur
 - Verbeterde privacyfuncties
 - AVG-naleving
----
+<!-- end-section -->
 
----section:before
+<!-- section:before -->
 ## Voordat Je Begint
 
 ### Vereisten
@@ -89,23 +113,33 @@ De belangrijkste voordelen van Service B zijn:
 
 ### Wat Je Nodig Hebt
 - Een veilig wachtwoord voor je nieuwe Service B-account
----
+<!-- end-section -->
 
----section:steps
-## Stap 1: Maak een Service B-Account
+<!-- section:steps -->
+<!-- step-start -->
+<!-- step-meta
+title: "Maak een Service B-Account"
+complete: true
+-->
 
 1. Bezoek de website van Service B
 2. Klik op "Aanmelden"
 3. Voer je gegevens in en maak je account aan
+<!-- step-end -->
 
-## Stap 2: Exporteer Je Gegevens uit Service A
+<!-- step-start -->
+<!-- step-meta
+title: "Exporteer Je Gegevens uit Service A"
+complete: true
+-->
 
 1. Log in op Service A
 2. Ga naar Instellingen
 3. Zoek de Exportoptie en download je gegevens
----
+<!-- step-end -->
+<!-- end-section -->
 
----section:troubleshooting
+<!-- section:troubleshooting -->
 ## Probleemoplossing
 
 ### Veelvoorkomende Problemen
@@ -114,20 +148,20 @@ De belangrijkste voordelen van Service B zijn:
 
 ### Hulp Krijgen
 Als je problemen ondervindt, neem contact op met het ondersteuningsteam van Service B
----
+<!-- end-section -->
 
----section:outro
+<!-- section:outro -->
 ## Conclusie
 
 Gefeliciteerd! Je bent succesvol gemigreerd van Service A naar Service B.
 
 Vergeet niet om je inloggegevens bij te werken op andere diensten die mogelijk gekoppeld zijn.
----
+<!-- end-section -->
 ```
 
 ### Achterwaartse Compatibiliteit
 
-Het segmentatiesysteem is achterwaarts compatibel. Niet-gesegmenteerde inhoud blijft correct werken. Als je bestaande gidsen bijwerkt, overweeg dan om segmentatie toe te voegen om de onderhoudbaarheid te verbeteren.
+Het segmentatiesysteem is achterwaarts compatibel. Niet-gesegmenteerde inhoud blijft correct werken, maar we raden aan om het nieuwe formaat te gebruiken voor alle nieuwe en bijgewerkte gidsen.
 
 ## Een Nieuwe Gids Maken
 
@@ -135,7 +169,7 @@ Om een nieuwe migratiegids te maken:
 
 1. Bepaal de juiste categorie voor je gids
 2. Maak een nieuwe map met een beschrijvende naam (bijv. `gmail-naar-protonmail`)
-3. Kopieer de sjabloon van `/content/templates/guide-template.mdx`
+3. Kopieer de sjabloon van `/content/templates/guide-template.md`
 4. Vul alle secties van de sjabloon in
 5. Voeg screenshots toe aan de afbeeldingenmap
 

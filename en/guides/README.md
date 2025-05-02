@@ -8,7 +8,7 @@ Each migration guide should be placed in its appropriate category directory and 
 
 ```
 /content/guides/[category]/[service-name]/
-├── index.mdx          # The main guide content
+├── index.md          # The main guide content
 └── images/            # Images folder for screenshots and diagrams
     ├── step1.png
     ├── step2.png
@@ -135,7 +135,7 @@ To create a new migration guide:
 
 1. Identify the appropriate category for your guide
 2. Create a new folder with a descriptive name (e.g., `gmail-to-protonmail`)
-3. Copy the template from `/content/templates/guide-template.mdx`
+3. Copy the template from `/content/templates/guide-template.md`
 4. Fill in all sections of the template
 5. Add screenshots to the images folder
 
