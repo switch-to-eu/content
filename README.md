@@ -74,7 +74,7 @@ Our content is organized as follows:
 - All content should be written in Markdown
 - Use headers (# ## ###) to organize content
 - Include a title and brief introduction at the top of each guide
-- Use screenshots where helpful (place in `/images/` directory)
+- Use screenshots or videos where helpful (place in `/media/` directory)
 
 ### Writing Style
 

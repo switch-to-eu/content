@@ -50,8 +50,8 @@ Hoewel WhatsApp end-to-end encryptie biedt, zijn er verschillende overtuigende r
 
 1. Open op je smartphone de app store:
 
-   - **Android**: Google Play Store
-   - **iOS**: App Store
+   - **Android**: [Google Play Store](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=nl)
+   - **iOS**: [App Store](https://apps.apple.com/us/app/signal-private-messenger/id874139669)
 
 2. Zoek naar "Signal Private Messenger"
 
@@ -60,6 +60,8 @@ Hoewel WhatsApp end-to-end encryptie biedt, zijn er verschillende overtuigende r
 4. Zodra geïnstalleerd, open de Signal app
 
 [complete]
+
+!video[media/signal1.mp4](Installeer de Signal App)
 
 ## Stap 2: Stel Je Signal-Account In
 
@@ -87,6 +89,8 @@ Hoewel WhatsApp end-to-end encryptie biedt, zijn er verschillende overtuigende r
    - Onthoud deze PIN; je hebt deze nodig als je Signal opnieuw installeert
 
 [complete]
+
+!video[media/signal2.mp4](Stel Je Signal-Account In)
 
 ## Stap 3: Vind Je Contacten op Signal
 
@@ -135,31 +139,7 @@ Het meest uitdagende deel van overstappen is ervoor zorgen dat je contacten wete
 
 [complete]
 
-## Stap 6: Belangrijke WhatsApp-gegevens Overzetten (Optioneel)
-
-Signal kan je WhatsApp-chatgeschiedenis niet direct importeren, maar je kunt belangrijke informatie opslaan:
-
-### Belangrijke WhatsApp-berichten Opslaan
-
-1. Open in WhatsApp de chat met belangrijke berichten
-
-2. Tik en houd het bericht vast dat je wilt opslaan
-
-3. Tik op "Doorsturen" of "Delen"
-
-4. Selecteer "Signal" en kies een chat of sla op naar "Notitie aan jezelf"
-
-### WhatsApp-media Exporteren
-
-1. Voor belangrijke foto's en video's in WhatsApp:
-   - Open de chat met de media
-   - Tik op de media om deze te bekijken
-   - Gebruik de deelknop om het op je apparaat op te slaan
-   - Deze opgeslagen mediabestanden zijn toegankelijk in Signal bij het delen vanuit je galerij
-
-[complete]
-
-## Stap 7: Signal-instellingen Aanpassen
+## Stap 6: Signal-instellingen Aanpassen
 
 Laat Signal het beste voor je werken door instellingen aan te passen:
 
