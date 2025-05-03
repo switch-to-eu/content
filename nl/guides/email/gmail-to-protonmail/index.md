@@ -7,120 +7,145 @@ sourceService: 'Gmail'
 targetService: 'ProtonMail'
 date: '2025-03-22'
 author: 'Switch-to.EU Team'
+missingFeatures:
+  - "Minder opslagruimte in gratis versie: ProtonMail's gratis versie biedt minder opslagruimte dan Gmail"
+  - "Beperkte zoekfunctionaliteit: Zoeken binnen e-mails werkt anders vanwege de encryptie"
+  - "Minder integraties: ProtonMail heeft minder integratie met andere diensten vergeleken met Google"
 ---
 
----section:intro
-
-# Migreren van Gmail naar ProtonMail
-
-ProtonMail is een beveiligde e-mailservice opgericht door wetenschappers die elkaar bij CERN hebben ontmoet. Het biedt end-to-end encryptie en een focus op privacy die Gmail niet biedt. Hoewel technisch gevestigd in Zwitserland, houdt ProtonMail zich aan de AVG en biedt het sterke gegevensbescherming die aansluit bij EU-waarden.
+<!-- section:intro -->
 
 ## Waarom Overstappen naar ProtonMail?
 
 In tegenstelling tot Gmail scant ProtonMail je e-mails niet voor reclamedoeleinden of bouwt het geen profiel over je op. Je gegevens zijn zodanig versleuteld dat zelfs ProtonMail geen toegang heeft tot je e-mails.
 
-- EU-conform met sterke gegevensbescherming (Zwitserse privacywetgeving)
-- End-to-end encryptie
-- Geen scanning van e-mailinhoud voor advertenties
-- Zero-access encryptie (zelfs ProtonMail kan je e-mails niet lezen)
+- **EU-conform**: Sterke gegevensbescherming (Zwitserse privacywetgeving)
+- **End-to-end encryptie**: Maximale beveiliging van je berichten
+- **Geen scanning** van e-mailinhoud voor advertenties
+- **Zero-access encryptie**: Zelfs ProtonMail kan je e-mails niet lezen
 
----
+<!-- end-section -->
 
----section:before
+<!-- section:before -->
 
-## Voordat Je Begint
-
-### Vereisten
+## Wat Je Nodig Hebt
 
 - Een actief Gmail-account
-- Een computer met internettoegang
-- Een mobiele telefoon (voor verificatie)
-
-### Wat Je Nodig Hebt
-
-- Een veilig wachtwoord voor je nieuwe ProtonMail-account
+- Een computer met internettoegang (via de smartphone heb je geen toegang tot Protons Easy Switch)
 - Ongeveer 45 minuten om de migratie te voltooien
-- Optioneel: Een betaald ProtonMail-abonnement als je extra opslag of functies nodig hebt
 
----
+<!-- end-section -->
 
----section:steps
+<!-- section:steps -->
 
-## Stap 1: Maak een ProtonMail-Account
+<!-- step-start -->
+<!-- step-meta
+title: "Maak een ProtonMail-Account"
+complete: true
+video: "media/proton-desktop1.mp4"
+videooriantation: "landscape"
+-->
 
-1. Bezoek de [ProtonMail-website](https://proton.me/mail)
-2. Klik op "Get ProtonMail Free"
+1. Bezoek de [Proton](https://proton.me/) website
+2. Klik op **"Create Free Account"**
 3. Kies je abonnement (Gratis of Betaald)
-4. Voer je gewenste gebruikersnaam en een sterk wachtwoord in
+4. Voer je gewenste **gebruikersnaam** en een sterk **wachtwoord** in
 5. Voltooi het verificatieproces
-6. Zodra geverifieerd, log in op je nieuwe ProtonMail-account
+6. Kies een **displaynaam**
+7. Optioneel: Voeg een herstel e-mailadres of telefoonnummer toe
 
-> **Pro Tip:** Kies een sterk, uniek wachtwoord voor je ProtonMail-account. Overweeg een wachtwoordbeheerder te gebruiken om complexe wachtwoorden veilig te genereren en op te slaan.
+<!-- step-end -->
 
-## Stap 2: Exporteer Je Gmail-Contacten
+<!-- step-start -->
+<!-- step-meta
+title: "Importeer je Gmail-contacten en e-mails"
+complete: true
+video: "media/proton-desktop2.mp4"
+videooriantation: "landscape"
+-->
 
-1. Ga naar [Google Contacten](https://contacts.google.com)
-2. Selecteer de contacten die je wilt exporteren (of klik op "Alles selecteren" om alles te exporteren)
-3. Klik op "Exporteren" in het menu
-4. Kies "Google CSV" als exportformaat
-5. Sla het CSV-bestand op je computer op
+Met de Easy Switch-functie kun je ook je bestaande Gmail-contacten, e-mails en agenda's importeren naar Proton Mail.
 
-## Stap 3: Importeer Contacten naar ProtonMail
+1. Klik op het **contactenpictogram** in de zijbalk van Proton Mail.
+2. Selecteer **"Contacten importeren"**.
+3. Kies **"Importeren vanuit Gmail"**.
+4. Geef aan wat je wilt importeren: **contacten**, **e-mails** en/of **agenda's**.
+5. Klik op **"Import starten"**.
+6. Klik op **"Doorgaan"**.
+7. Selecteer je Gmail-account en log in.
+8. Klik tweemaal op **"Doorgaan"** om de vereiste toestemmingen te verlenen.
+9. Klik op **"Import starten"** om het proces te beginnen.
+10. Het importeren kan enige tijd duren; je ontvangt een melding zodra het voltooid is.
 
-1. Log in op je ProtonMail-account
-2. Ga naar Instellingen > Contacten
-3. Klik op "Importeren"
-4. Selecteer het CSV-bestand dat je hebt geëxporteerd uit Gmail
-5. Koppel de velden indien gevraagd
-6. Klik op "Importeren" om je contacten toe te voegen
+<!-- step-end -->
 
-## Stap 4: Doorsturen van Belangrijke E-mails
 
-Voor belangrijke e-mails in je Gmail-account:
+<!-- step-start -->
+<!-- step-meta
+title: "Automatisch doorsturen van toekomstige e-mails"
+complete: true
+video: "media/proton-desktop3.mp4"
+videooriantation: "landscape"
+-->
 
-1. Selecteer in Gmail de e-mails die je wilt bewaren
-2. Klik op de knop "Doorsturen"
-3. Voer je ProtonMail-adres in
-4. Stuur de e-mails naar je nieuwe account
+Met Proton Mail's Easy Switch-functie kun je eenvoudig instellen dat nieuwe e-mails die naar je Gmail-adres worden gestuurd, automatisch worden doorgestuurd naar je Proton Mail-inbox.
 
-Voor automatisch doorsturen van toekomstige e-mails:
+1. Klik op het **tandwielpictogram** (⚙️) rechtsboven en selecteer **"Alle instellingen"**.
+2. Ga naar het tabblad **"Importeren via Easy Switch"** in de zijbalk.
+3. Klik op **"Automatisch doorsturen instellen vanaf Gmail"**.
+4. Er verschijnt een pop-upvenster waarin je wordt gevraagd **in te loggen op je Gmail-account**. Voer je Gmail-gebruikersnaam en -wachtwoord in.
+5. In het toestemmingsvenster van Google, vink alle vereiste vakjes aan en klik op **"Doorgaan"**.
+6. Na succesvolle autorisatie ontvang je een bevestiging dat het automatisch doorsturen is ingesteld.
 
-1. Ga in Gmail naar Instellingen > Doorsturen en POP/IMAP
-2. Klik op "Een doorstuuradres toevoegen"
-3. Voer je ProtonMail-adres in
-4. Verifieer het doorstuuradres (je ontvangt een bevestigingsmail in ProtonMail)
-5. Kies wat Gmail moet doen met doorgestuurde berichten (markeren als gelezen, archiveren, etc.)
+**Opmerking**: Je Proton Mail-adres wordt niet gedeeld met Google tijdens dit proces, wat je privacy beschermt.
 
-## Stap 5: Update Je Accounts
+<!-- step-end -->
+
+<!-- step-start -->
+<!-- step-meta
+title: "Instaleer de ProtonMail App (optioneel)"
+video: "media/proton-mobile1.mp4"
+-->
+
+1. Download de **ProtonMail** App voor je telefoon
+2. **Installeer** de app
+3. **Log in** met je ProtonMail-account
+5. Gebruik de app om je e-mails te bekijken en te beheren
+
+
+
+<!-- step-end -->
+<!-- step-start -->
+<!-- step-meta
+title: "Update Je Accounts (optioneel)"
+-->
 
 1. Maak een lijst van belangrijke diensten gekoppeld aan je Gmail-account
+   1. Bankdiensten
+   2. Social media-accounts
+   3. Abonnementsdiensten
 2. Bezoek elke dienst en update je e-mailadres naar je nieuwe ProtonMail-adres
-3. Update je herstel-e-mail voor belangrijke accounts
-4. Vergeet niet om deze te updaten:
-   - Bankdiensten
-   - Social media-accounts
-   - Abonnementsdiensten
-   - Online winkelaccounts
 
-## Stap 6: E-mailclients Instellen (Optioneel)
+<!-- step-end -->
 
-Om ProtonMail te gebruiken met desktop e-mailclients:
+<!-- step-start -->
+<!-- step-meta
+title: "Veilige Overgangsperiode  (optioneel)"
+-->
 
-1. Download voor betaalde ProtonMail-abonnementen de [ProtonMail Bridge](https://proton.me/mail/bridge)
-2. Volg de installatie-instructies voor jouw besturingssysteem
-3. Configureer je e-mailclient met de instellingen die door ProtonMail Bridge worden verstrekt
-
-## Stap 7: Overgangsperiode
-
-Houd beide e-mailaccounts minstens een maand aan om:
+Houd beide e-mailaccounts minstens een paar maanden aan om:
 
 1. Diensten op te vangen die je bent vergeten te updaten
 2. Ervoor te zorgen dat je alle belangrijke communicatie ontvangt
 3. Vertrouwd te raken met de ProtonMail-interface
 
----
+Controleer regelmatig beide accounts tijdens deze periode om er zeker van te zijn dat je niets belangrijks mist.
 
----section:troubleshooting
+<!-- step-end -->
+
+<!-- end-section -->
+
+<!-- section:troubleshooting -->
 
 ## Probleemoplossing
 
@@ -138,14 +163,14 @@ Als je problemen ondervindt tijdens de migratie:
 - Raadpleeg de [ProtonMail Kennisbank](https://proton.me/support/knowledge-base)
 - Neem contact op met ProtonMail-ondersteuning via je accountinstellingen
 
----
+<!-- end-section -->
 
----section:outro
+<!-- section:outro -->
 
 ## Conclusie
 
 Gefeliciteerd! Je bent succesvol gemigreerd van Gmail naar ProtonMail. Je e-mailcommunicatie is nu privater en veiliger. Vergeet niet om tijdens de overgangsperiode regelmatig je oude Gmail-account te controleren om er zeker van te zijn dat je niets belangrijks hebt gemist.
 
-_Deze gids is voor het laatst bijgewerkt op 22 maart 2025. Als je verouderde informatie vindt, laat het ons dan weten via [GitHub](https://github.com/your-repo/switch-to.eu)._
+ProtonMail biedt je niet alleen betere privacy, maar draagt ook bij aan een digitaal ecosysteem dat jouw gegevens respecteert. Door deze overstap heb je een belangrijke stap gezet in het beschermen van je digitale leven.
 
----
+<!-- end-section -->
