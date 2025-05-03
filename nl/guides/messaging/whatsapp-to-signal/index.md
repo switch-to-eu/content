@@ -49,11 +49,10 @@ video: "media/signal1.mp4"
 -->
 
 1. Open op je smartphone de app store:
-
    - **Android**: [Google Play Store](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=nl)
    - **iOS**: [App Store](https://apps.apple.com/us/app/signal-private-messenger/id874139669)
 
-2. Zoek naar "Signal Private Messenger"
+2. Zoek naar "Signal Messenger"
 
 3. Download en installeer de app door op "Installeren" of "Downloaden" te tikken
 
@@ -64,37 +63,33 @@ video: "media/signal1.mp4"
 <!-- step-meta
 title: "Stel Je Signal-Account In"
 complete: true
-video: "media/signal2.mp4"
+video: "media/signal2-3.mp4"
 -->
 
 1. Tik op "Doorgaan" op het welkomstscherm
 
 2. Geef de gevraagde toestemmingen wanneer hierom wordt gevraagd:
-
-   - Signal heeft toegang nodig tot contacten om je te helpen vrienden te vinden
-   - Signal heeft toegang nodig tot media voor het delen van foto's en video's
-   - Signal heeft toegang nodig tot je camera voor het maken van foto's binnen de app
+   - Notificaties om je te informeren wanneer je berichten ontvangt (optioneel)
+   - Toegang tot je contacten om te helpen contacten te vinden
 
 3. Voer je telefoonnummer in en tik op "Volgende"
 
 4. Signal stuurt je een verificatiecode via SMS. Voer deze code in de app in
 
-5. Maak je profiel aan:
-
-   - Voeg je naam toe (dit is wat contacten zullen zien)
-   - Voeg een profielfoto toe (optioneel maar aanbevolen)
-   - Tik op "Opslaan" of "Volgende"
-
-6. Stel een PIN in voor extra beveiliging (vereist)
-   - Deze PIN helpt je Signal-account te beveiligen tijdens herregistratie
+5. Stel een [PIN in voor extra beveiliging](https://support.signal.org/hc/nl/articles/360007059792-Signal-pincode) (vereist)
+   - Deze PIN helpt je Signal-account te beveiligen
    - Kies een PIN van minstens 4 cijfers
-   - Onthoud deze PIN; je hebt deze nodig als je Signal opnieuw installeert
+
+6. Maak je profiel aan:
+   - Voeg je naam toe
+   - Voeg een profielfoto toe (optioneel)
+   - Toestaan dat signal aparaten zoekt op je lokale netwerk (optioneel)
 <!-- step-end -->
 
 <!-- step-start -->
 <!-- step-meta
 title: "Vind Je Contacten op Signal"
-video: "media/signal3.mp4"
+video: "media/signal4.mp4"
 complete: true
 -->
 
@@ -113,7 +108,7 @@ complete: true
 <!-- step-start -->
 <!-- step-meta
 title: "Maak Belangrijke Groepen Aan"
-video: "media/signal4.mp4"
+video: "media/signal5.mp4"
 complete: true
 -->
 
@@ -135,7 +130,6 @@ Als je afhankelijk bent van WhatsApp-groepen, wil je deze opnieuw aanmaken in Si
 <!-- step-start -->
 <!-- step-meta
 title: "Informeer Je Contacten"
-video: "media/signal5.mp4"
 complete: true
 -->
 
@@ -178,7 +172,6 @@ Laat Signal het beste voor je werken door instellingen aan te passen:
 <!-- step-start -->
 <!-- step-meta
 title: "Leer Signal-specifieke Functies"
-video: "media/signal6.mp4"
 complete: true
 -->
 
