@@ -129,8 +129,7 @@ Als je afhankelijk bent van WhatsApp-groepen, wil je deze opnieuw aanmaken in Si
 
 <!-- step-start -->
 <!-- step-meta
-title: "Informeer Je Contacten"
-complete: true
+title: "Informeer Je Contacten (optioneel)"
 -->
 
 Het meest uitdagende deel van overstappen is ervoor zorgen dat je contacten weten je op Signal te bereiken:
@@ -146,9 +145,8 @@ Het meest uitdagende deel van overstappen is ervoor zorgen dat je contacten wete
 
 <!-- step-start -->
 <!-- step-meta
-title: "Signal-instellingen Aanpassen"
+title: "Signal-instellingen Aanpassen (optioneel)"
 video: "media/signal6.mp4"
-complete: true
 -->
 
 Laat Signal het beste voor je werken door instellingen aan te passen:
@@ -171,8 +169,7 @@ Laat Signal het beste voor je werken door instellingen aan te passen:
 
 <!-- step-start -->
 <!-- step-meta
-title: "Leer Signal-specifieke Functies"
-complete: true
+title: "Leer Signal-specifieke Functies (optioneel)"
 -->
 
 Signal heeft enkele unieke functies die het verkennen waard zijn:
