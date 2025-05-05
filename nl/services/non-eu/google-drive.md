@@ -9,7 +9,7 @@ startingPrice: '€1.99/maand voor 100GB'
 description: 'Cloudopslag- en bestandssynchronisatiedienst van Google.'
 url: 'https://drive.google.com/'
 featured: true
-recommendedAlternative: 'nextcloud'
+recommendedAlternative: 'pcloud'
 issues:
   - 'Scant en analyseert je opgeslagen inhoud'
   - 'Gegevens opgeslagen op Amerikaanse servers onderhevig aan surveillancewetten'
