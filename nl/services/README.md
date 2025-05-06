@@ -1,5 +1,3 @@
-# Dienstenmap
-
 Deze map bevat individuele markdown-bestanden voor elke dienst die gecategoriseerd kan worden als EU- of niet-EU-diensten.
 
 ## Mapstructuur
@@ -23,9 +21,8 @@ name: 'Dienstnaam'             # Weergavenaam van de dienst
 category: 'categorie-naam'     # Moet overeenkomen met een van de bestaande categorieën (email, storage, enz.)
 location: 'Land'               # Land of regio waar de dienst is gevestigd
 region: 'eu'                   # 'eu' of 'non-eu'
-privacyRating: 5               # Waardering van 1-5 (5 is het beste)
 freeOption: true               # Of er een gratis versie beschikbaar is
-startingPrice: '€X.XX/maand'   # Startprijs voor betaalde abonnementen
+startingPrice: false            # Startprijs voor betaalde abonnementen
 description: 'Korte beschrijving van de dienst.'
 url: 'https://dienst-url.com'  # Officiële website URL
 ---
@@ -60,7 +57,6 @@ name: 'ProtonMail'
 category: 'email'
 location: 'Zwitserland'
 region: 'eu'
-privacyRating: 5
 freeOption: true
 startingPrice: '€3.99/maand'
 description: 'End-to-end versleutelde e-maildienst met sterke focus op privacy.'
@@ -70,8 +66,6 @@ features:
   - 'Zero-access encryptie'
   - 'Open source clients'
 ---
-
-# ProtonMail
 
 ProtonMail is een versleutelde e-maildienst opgericht in 2013 bij CERN door wetenschappers die elkaar daar ontmoetten en bezorgd waren over de privacy-implicaties van diensten zoals Gmail.
 
@@ -90,9 +84,8 @@ name: 'Gmail'
 category: 'email'
 location: 'Verenigde Staten'
 region: 'non-eu'
-privacyRating: 2
 freeOption: true
-startingPrice: 'Gratis'
+startingPrice: false
 description: 'Google e-maildienst met krachtige functies maar beperkte privacy.'
 url: 'https://gmail.com'
 features:
@@ -100,8 +93,6 @@ features:
   - 'Integratie met Google Workspace'
   - 'Grote gratis opslag'
 ---
-
-# Gmail
 
 Gmail is de e-maildienst van Google die uitgebreide functies biedt, maar met privacy-concessies vanwege gegevensverwerkingspraktijken.
 

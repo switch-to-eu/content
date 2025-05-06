@@ -1,11 +1,10 @@
 ---
 name: 'Seafile'
-category: 'cloudopslag'
+category: 'storage'
 location: 'Duitsland'
 region: 'eu'
-privacyRating: 5
 freeOption: true
-startingPrice: 'Gratis (open source), €9/maand (gehost)'
+startingPrice: '€9/maand (gehost)'
 description: 'Open-source cloudopslag die u zelf kunt hosten of beheerd kunt gebruiken, met end-to-end encryptie en flexibele controle.'
 url: 'https://www.seafile.com'
 features:
@@ -21,8 +20,6 @@ tags:
   - 'zelf-hosted'
   - 'bestandssynchronisatie'
 ---
-
-# Seafile
 
 Seafile is een open-source cloudopslagplatform met geavanceerde functies voor beveiliging, synchronisatie en samenwerking dat zowel zelfgehost als via de betaalde Seafile Cloud-dienst kan worden gebruikt.
 

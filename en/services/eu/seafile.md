@@ -3,9 +3,8 @@ name: 'Seafile'
 category: 'storage'
 location: 'Germany'
 region: 'eu'
-privacyRating: 4
 freeOption: true
-startingPrice: '€7/month'
+startingPrice: '€9/month'
 description: 'High-performance file sync and share platform with end-to-end encryption.'
 url: 'https://www.seafile.com/'
 features:
@@ -19,8 +18,6 @@ tags:
   - 'GDPR-compliant'
   - 'high-performance'
 ---
-
-# Seafile
 
 Seafile is a high-performance file hosting and syncing solution designed for speed and reliability. It's an open-source platform that offers self-hosting options as well as professional hosting services from the company's headquarters in Germany.
 

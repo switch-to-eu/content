@@ -3,7 +3,6 @@ name: 'Koofr'
 category: 'storage'
 location: 'Slovenia'
 region: 'eu'
-privacyRating: 4
 freeOption: true
 startingPrice: '€2/month'
 description: 'Simple, privacy-focused cloud storage with no file size limits.'
@@ -19,8 +18,6 @@ tags:
   - 'EU-based'
   - 'unlimited file size'
 ---
-
-# Koofr
 
 Koofr is a cloud storage solution based in Slovenia that offers a simple, privacy-focused approach to file storage and sharing. With no file size limits and affordable plans, it's a straightforward European alternative to mainstream cloud services.
 

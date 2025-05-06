@@ -3,7 +3,6 @@ name: 'ProtonMail'
 category: 'email'
 location: 'Zwitserland'
 region: 'eu'
-privacyRating: 5
 freeOption: true
 startingPrice: '€3.99/maand'
 description: 'End-to-end versleutelde e-maildienst met sterke focus op privacy.'
@@ -20,8 +19,6 @@ tags:
   - 'privacy'
   - 'AVG-conform'
 ---
-
-# ProtonMail
 
 ProtonMail is een versleutelde e-maildienst opgericht in 2013 bij CERN door wetenschappers die bezorgd waren over de privacy-implicaties van diensten zoals Gmail.
 

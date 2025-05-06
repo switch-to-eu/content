@@ -1,9 +1,8 @@
 ---
 name: 'Tresorit'
-category: 'cloudopslag'
+category: 'storage'
 location: 'Zwitserland'
 region: 'eu'
-privacyRating: 5
 freeOption: false
 startingPrice: '€8,33/maand'
 description: 'End-to-end versleutelde cloudopslagdienst gericht op beveiliging en compliance, met zero-knowledge beveiliging en geavanceerde deling van bestanden.'
@@ -21,8 +20,6 @@ tags:
   - 'beveiliging'
   - 'compliance'
 ---
-
-# Tresorit
 
 Tresorit is een end-to-end versleutelde cloudopslagdienst die gebruikers in staat stelt gevoelige gegevens veilig op te slaan, te synchroniseren en te delen met behoud van volledige privacy en controle.
 

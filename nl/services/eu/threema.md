@@ -3,7 +3,6 @@ name: 'Threema'
 category: 'messaging'
 location: 'Zwitserland'
 region: 'eu'
-privacyRating: 5
 freeOption: false
 startingPrice: '€3.99 eenmalig'
 description: 'In Zwitserland gevestigde, metadata-minimaliserende beveiligde messenger met anonieme gebruiksopties.'
@@ -19,8 +18,6 @@ tags:
   - 'minimale-metadata'
   - 'anoniem'
 ---
-
-# Threema
 
 Threema is een privacygerichte berichtenapp gevestigd in Zwitserland die de nadruk legt op metadata-minimalisering en anoniem gebruik mogelijk maakt zonder een telefoonnummer of e-mailadres te vereisen.
 

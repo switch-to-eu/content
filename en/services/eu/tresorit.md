@@ -3,7 +3,6 @@ name: 'Tresorit'
 category: 'storage'
 location: 'Switzerland'
 region: 'eu'
-privacyRating: 5
 freeOption: false
 startingPrice: '€8.33/month'
 description: 'End-to-end encrypted cloud storage for maximum security and compliance.'
@@ -19,8 +18,6 @@ tags:
   - 'maximum-security'
   - 'compliance-focused'
 ---
-
-# Tresorit
 
 Tresorit is a premium end-to-end encrypted cloud storage and file synchronization service based in Switzerland, focusing on enhanced security and regulatory compliance for businesses and security-conscious individuals.
 

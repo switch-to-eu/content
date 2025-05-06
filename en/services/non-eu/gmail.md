@@ -3,9 +3,8 @@ name: 'Gmail'
 category: 'email'
 location: 'United States'
 region: 'non-eu'
-privacyRating: 1
 freeOption: true
-startingPrice: 'Free'
+startingPrice: false
 description: 'Popular email service by Google with advanced features and integration with Google Workspace.'
 url: 'https://gmail.com/'
 featured: true
@@ -29,18 +28,7 @@ tags:
   - 'google'
 ---
 
-# Gmail
-
 Gmail is a free email service developed by Google. Launched in 2004, it has become one of the most widely used email services worldwide, known for its storage capacity, search capabilities, and integration with other Google services.
-
-## Key Features
-
-- Free 15GB of storage (shared with Google Drive and Photos)
-- Advanced email organization with categories, labels, and filters
-- Integration with Google Meet for video conferencing
-- Smart features like Smart Compose and Smart Reply
-- Robust spam and malware protection
-- Available on all major platforms
 
 ## Privacy and Security
 

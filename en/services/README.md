@@ -1,5 +1,3 @@
-# Services Directory
-
 This directory contains individual markdown files for each service that can be categorized as EU or non-EU services.
 
 ## Directory Structure
@@ -23,7 +21,6 @@ name: 'Service Name'            # Display name of the service
 category: 'category-name'       # Must match one of the existing categories (email, storage, etc.)
 location: 'Country'             # Country or region where the service is based
 region: 'eu'                    # Either 'eu' or 'non-eu'
-privacyRating: 5                # Rating from 1-5 (5 being best)
 freeOption: true                # Whether a free tier is available
 startingPrice: '€X.XX/month'    # Starting price for paid plans
 description: 'Brief description of the service.'
@@ -60,7 +57,6 @@ name: 'ProtonMail'
 category: 'email'
 location: 'Switzerland'
 region: 'eu'
-privacyRating: 5
 freeOption: true
 startingPrice: '€3.99/month'
 description: 'End-to-end encrypted email service with strong privacy focus.'
@@ -70,8 +66,6 @@ features:
   - 'Zero-access encryption'
   - 'Open source clients'
 ---
-
-# ProtonMail
 
 ProtonMail is an encrypted email service founded in 2013 at CERN by scientists who met there and were concerned about the privacy implications of services like Gmail.
 
@@ -90,9 +84,8 @@ name: 'Gmail'
 category: 'email'
 location: 'United States'
 region: 'non-eu'
-privacyRating: 2
 freeOption: true
-startingPrice: 'Free'
+startingPrice: false
 description: 'Google email service with powerful features but limited privacy.'
 url: 'https://gmail.com'
 features:
@@ -100,8 +93,6 @@ features:
   - 'Integration with Google Workspace'
   - 'Large free storage'
 ---
-
-# Gmail
 
 Gmail is Google's email service that offers extensive features but with privacy trade-offs due to data processing practices.
 

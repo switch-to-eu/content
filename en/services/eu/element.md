@@ -3,7 +3,6 @@ name: 'Element'
 category: 'messaging'
 location: 'UK/EU'
 region: 'eu'
-privacyRating: 4
 freeOption: true
 startingPrice: '€5/month (hosted)'
 description: 'Secure, decentralized messaging based on the Matrix protocol with self-hosting options.'
@@ -19,8 +18,6 @@ tags:
   - 'open-source'
   - 'interoperable'
 ---
-
-# Element
 
 Element is the flagship client for the Matrix protocol, an open standard for secure, decentralized real-time communication. It offers end-to-end encryption in a decentralized network that can be self-hosted or used through Element's hosting service.
 

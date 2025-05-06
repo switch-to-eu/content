@@ -3,7 +3,6 @@ name: 'Koofr'
 category: 'storage'
 location: 'Slovenië'
 region: 'eu'
-privacyRating: 4
 freeOption: true
 startingPrice: '€2/maand'
 description: 'Eenvoudige, privacygerichte cloudopslag zonder bestandsgroottelimieten.'
@@ -19,8 +18,6 @@ tags:
   - 'EU-gebaseerd'
   - 'onbeperkte bestandsgrootte'
 ---
-
-# Koofr
 
 Koofr is een cloudopslagoplossing gevestigd in Slovenië die een eenvoudige, privacygerichte benadering biedt voor bestandsopslag en -delen. Met geen bestandsgroottelimieten en betaalbare abonnementen is het een direct Europees alternatief voor mainstream clouddiensten.
 

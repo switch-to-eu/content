@@ -1,11 +1,10 @@
 ---
 name: 'Session'
 category: 'messaging'
-location: 'Australië/Wereldwijd (gedecentraliseerd)'
-region: 'eu'
-privacyRating: 5
+location: 'Australië/Wereldwijd'
+region: 'eu-friendly'
 freeOption: true
-startingPrice: 'Gratis'
+startingPrice: false
 description: 'Anonieme berichtenapp die onion routing gebruikt zonder telefoonnummers of e-mail te vereisen.'
 url: 'https://getsession.org/'
 features:
@@ -19,8 +18,6 @@ tags:
   - 'gedecentraliseerd'
   - 'metadata-bestendig'
 ---
-
-# Session
 
 Session is een privacygerichte berichtenapp die een gedecentraliseerd netwerk gebruikt om anonieme communicatie te bieden zonder persoonlijke identificatiegegevens zoals telefoonnummers of e-mailadressen te vereisen. Hoewel de ontwikkelaars in Australië zijn gevestigd, werkt de applicatie op een gedecentraliseerd netwerk met sterke Europese gebruikersdeelname en knooppuntparticipatie.
 

@@ -3,7 +3,6 @@ name: 'Nextcloud'
 category: 'storage'
 location: 'Germany'
 region: 'eu'
-privacyRating: 5
 freeOption: true
 startingPrice: '€4/month (hosted)'
 description: 'Self-hosted or managed file sync and share platform with extensive app ecosystem.'
@@ -20,8 +19,6 @@ tags:
   - 'GDPR-compliant'
   - 'self-hosted'
 ---
-
-# Nextcloud
 
 Nextcloud is a suite of client-server software for creating and using file hosting services. It is functionally similar to Dropbox, but it's free and open-source, allowing anyone to install and operate it on a private server.
 

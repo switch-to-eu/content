@@ -3,7 +3,6 @@ name: 'Mailbox.org'
 category: 'email'
 location: 'Germany'
 region: 'eu'
-privacyRating: 4
 freeOption: false
 startingPrice: '€1/month'
 description: 'Privacy-focused email with office features.'
@@ -19,8 +18,6 @@ tags:
   - 'office-suite'
   - 'GDPR-compliant'
 ---
-
-# Mailbox.org
 
 Mailbox.org is a privacy-focused email service based in Germany that offers a comprehensive suite of office applications alongside secure email services.
 

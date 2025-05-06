@@ -3,7 +3,6 @@ name: 'Tutanota'
 category: 'email'
 location: 'Duitsland'
 region: 'eu'
-privacyRating: 5
 freeOption: true
 startingPrice: '€1.20/maand'
 description: 'Open-source versleutelde e-mail met agenda.'
@@ -19,8 +18,6 @@ tags:
   - 'open-source'
   - 'AVG-conform'
 ---
-
-# Tutanota
 
 Tutanota is een end-to-end versleutelde e-maildienst gevestigd in Duitsland. De naam "Tutanota" komt uit het Latijn en betekent "veilig bericht". Het is volledig open-source en richt zich op beveiliging en privacy by design.
 

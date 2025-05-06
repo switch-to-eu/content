@@ -3,7 +3,6 @@ name: 'Google Drive'
 category: 'storage'
 location: 'United States'
 region: 'non-eu'
-privacyRating: 2
 freeOption: true
 startingPrice: '€1.99/month for 100GB'
 description: 'Cloud storage and file synchronization service by Google.'
@@ -29,18 +28,8 @@ tags:
   - 'google'
 ---
 
-# Google Drive
-
 Google Drive is a cloud storage service developed by Google that allows users to store files, synchronize files across devices, and share files with others. It integrates with Google's productivity suite including Google Docs, Sheets, and Slides.
 
-## Key Features
-
-- 15GB of free storage (shared with Gmail and Google Photos)
-- Paid plans starting at €1.99/month for 100GB
-- Real-time collaboration on documents
-- Advanced search capabilities
-- Integration with Google Workspace
-- Mobile apps for Android and iOS
 
 ## Privacy and Security
 

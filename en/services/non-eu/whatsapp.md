@@ -3,9 +3,8 @@ name: 'WhatsApp'
 category: 'messaging'
 location: 'United States'
 region: 'non-eu'
-privacyRating: 2
 freeOption: true
-startingPrice: 'Free'
+startingPrice: false
 description: 'Popular messaging app owned by Meta (Facebook) with end-to-end encryption.'
 url: 'https://www.whatsapp.com/'
 featured: true
@@ -29,18 +28,7 @@ tags:
   - 'meta'
 ---
 
-# WhatsApp
-
 WhatsApp is a widely used messaging application owned by Meta (formerly Facebook). While it offers end-to-end encryption for messages, it's based in the United States and subject to U.S. data regulations rather than GDPR.
-
-## Key Features
-
-- End-to-end encrypted messaging for chats
-- Voice and video calling capabilities
-- Available on all major platforms (mobile and desktop)
-- Group chats supporting up to 1024 participants
-- File and media sharing
-- Status updates
 
 ## Privacy and Security
 

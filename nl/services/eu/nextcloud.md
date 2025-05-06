@@ -3,12 +3,10 @@ name: 'Nextcloud'
 category: 'storage'
 location: 'Duitsland'
 region: 'eu'
-privacyRating: 5
 freeOption: true
 startingPrice: '€4/maand (gehost)'
 description: 'Zelf-gehoste of beheerde bestandssynchronisatie- en deelplatform met uitgebreid app-ecosysteem.'
 url: 'https://nextcloud.com/'
-featured: true
 features:
   - 'Bestandssynchronisatie & delen'
   - 'Agenda & contacten'
@@ -20,8 +18,6 @@ tags:
   - 'AVG-conform'
   - 'zelf-gehost'
 ---
-
-# Nextcloud
 
 Nextcloud is een suite van client-server software voor het creëren en gebruiken van bestandshostingdiensten. Het is functioneel vergelijkbaar met Dropbox, maar het is gratis en open-source, waardoor iedereen het op een privéserver kan installeren en gebruiken.
 

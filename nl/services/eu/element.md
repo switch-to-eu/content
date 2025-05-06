@@ -3,7 +3,6 @@ name: 'Element'
 category: 'messaging'
 location: 'VK/EU'
 region: 'eu'
-privacyRating: 4
 freeOption: true
 startingPrice: '€5/maand (gehost)'
 description: 'Veilige, gedecentraliseerde berichtenuitwisseling gebaseerd op het Matrix-protocol met zelf-hosting opties.'
@@ -19,8 +18,6 @@ tags:
   - 'open-source'
   - 'interoperabel'
 ---
-
-# Element
 
 Element is de vlaggenschip-client voor het Matrix-protocol, een open standaard voor veilige, gedecentraliseerde realtime communicatie. Het biedt end-to-end encryptie in een gedecentraliseerd netwerk dat zelf kan worden gehost of via de hostingdienst van Element kan worden gebruikt.
 

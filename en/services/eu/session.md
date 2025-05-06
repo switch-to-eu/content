@@ -2,10 +2,9 @@
 name: 'Session'
 category: 'messaging'
 location: 'Australia/Global (decentralized)'
-region: 'eu'
-privacyRating: 5
+region: 'eu-friendly'
 freeOption: true
-startingPrice: 'Free'
+startingPrice: false
 description: 'Anonymous messaging app using onion routing without requiring phone numbers or email.'
 url: 'https://getsession.org/'
 features:
@@ -19,8 +18,6 @@ tags:
   - 'decentralized'
   - 'metadata-resistant'
 ---
-
-# Session
 
 Session is a privacy-focused messaging application that uses a decentralized network to provide anonymous communication without requiring personal identifiers like phone numbers or email addresses. While the developers are based in Australia, the application operates on a decentralized network with strong European usage and node participation.
 

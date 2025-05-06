@@ -2,10 +2,9 @@
 name: 'Signal'
 category: 'messaging'
 location: 'US & EU (distributed)'
-region: 'eu'
-privacyRating: 5
+region: 'eu-friendly'
 freeOption: true
-startingPrice: 'Free'
+startingPrice: false
 description: 'End-to-end encrypted messaging with industry-leading security.'
 url: 'https://signal.org/'
 featured: true
@@ -20,8 +19,6 @@ tags:
   - 'open-source'
   - 'privacy-focused'
 ---
-
-# Signal
 
 Signal is an end-to-end encrypted messaging service focused on privacy and security. While the Signal Foundation is US-based, the service operates in a distributed manner and is recommended by privacy advocates worldwide including in the EU.
 

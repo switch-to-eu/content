@@ -3,7 +3,6 @@ name: 'Mailbox.org'
 category: 'email'
 location: 'Duitsland'
 region: 'eu'
-privacyRating: 4
 freeOption: false
 startingPrice: '€1/maand'
 description: 'Privacygerichte e-mail met kantoorfuncties.'
@@ -19,8 +18,6 @@ tags:
   - 'kantoorpakket'
   - 'AVG-conform'
 ---
-
-# Mailbox.org
 
 Mailbox.org is een privacygerichte e-maildienst gevestigd in Duitsland die een uitgebreid pakket kantoortoepassingen biedt naast beveiligde e-maildiensten.
 

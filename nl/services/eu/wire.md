@@ -3,7 +3,6 @@ name: 'Wire'
 category: 'berichten'
 location: 'Duitsland'
 region: 'eu'
-privacyRating: 5
 freeOption: true
 startingPrice: 'Gratis (persoonlijk), €4/maand (professioneel)'
 description: 'End-to-end versleutelde berichten, video, spraak en bestandsdeling voor persoonlijk en zakelijk gebruik, met Europese hosting en open-source apps.'
@@ -21,8 +20,6 @@ tags:
   - 'samenwerking'
   - 'zakelijk'
 ---
-
-# Wire
 
 Wire is een veilig communicatieplatform met end-to-end encryptie voor berichten, spraakoproepen, videogesprekken en bestandsdeling, verkrijgbaar voor persoonlijk en zakelijk gebruik.
 

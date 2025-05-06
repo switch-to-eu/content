@@ -3,7 +3,6 @@ name: 'Google Drive'
 category: 'storage'
 location: 'Verenigde Staten'
 region: 'non-eu'
-privacyRating: 2
 freeOption: true
 startingPrice: '€1.99/maand voor 100GB'
 description: 'Cloudopslag- en bestandssynchronisatiedienst van Google.'
@@ -29,18 +28,7 @@ tags:
   - 'google'
 ---
 
-# Google Drive
-
 Google Drive is een cloudopslagdienst ontwikkeld door Google waarmee gebruikers bestanden kunnen opslaan, bestanden kunnen synchroniseren tussen apparaten en bestanden kunnen delen met anderen. Het integreert met Google's productiviteitssuite, waaronder Google Documenten, Spreadsheets en Presentaties.
-
-## Belangrijkste Functies
-
-- 15GB gratis opslag (gedeeld met Gmail en Google Foto's)
-- Betaalde abonnementen vanaf €1,99/maand voor 100GB
-- Realtime samenwerking aan documenten
-- Geavanceerde zoekmogelijkheden
-- Integratie met Google Workspace
-- Mobiele apps voor Android en iOS
 
 ## Privacy en Beveiliging
 

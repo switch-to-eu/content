@@ -3,9 +3,8 @@ name: 'Gmail'
 category: 'email'
 location: 'Verenigde Staten'
 region: 'non-eu'
-privacyRating: 1
 freeOption: true
-startingPrice: 'Gratis'
+startingPrice: false
 description: 'Populaire e-maildienst van Google met geavanceerde functies en integratie met Google Workspace.'
 url: 'https://gmail.com/'
 featured: true
@@ -29,18 +28,7 @@ tags:
   - 'google'
 ---
 
-# Gmail
-
 Gmail is een gratis e-maildienst ontwikkeld door Google. Gelanceerd in 2004, is het een van de meest gebruikte e-maildiensten wereldwijd geworden, bekend om zijn opslagcapaciteit, zoekmogelijkheden en integratie met andere Google-diensten.
-
-## Belangrijkste Functies
-
-- Gratis 15GB opslag (gedeeld met Google Drive en Foto's)
-- Geavanceerde e-mailorganisatie met categorieën, labels en filters
-- Integratie met Google Meet voor videoconferenties
-- Slimme functies zoals Smart Compose en Smart Reply
-- Robuuste spam- en malwarebeveiliging
-- Beschikbaar op alle belangrijke platforms
 
 ## Privacy en Beveiliging
 

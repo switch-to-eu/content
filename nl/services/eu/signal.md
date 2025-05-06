@@ -2,10 +2,9 @@
 name: 'Signal'
 category: 'messaging'
 location: 'VS & EU (gedistribueerd)'
-region: 'eu'
-privacyRating: 5
+region: 'eu-friendly'
 freeOption: true
-startingPrice: 'Gratis'
+startingPrice: false
 description: 'End-to-end versleutelde berichtenuitwisseling met toonaangevende beveiliging.'
 url: 'https://signal.org/'
 featured: true
@@ -20,8 +19,6 @@ tags:
   - 'open-source'
   - 'privacygericht'
 ---
-
-# Signal
 
 Signal is een end-to-end versleutelde berichtendienst gericht op privacy en beveiliging. Hoewel de Signal Foundation in de VS is gevestigd, werkt de dienst op een gedistribueerde manier en wordt deze wereldwijd aanbevolen door privacyvoorstanders, ook in de EU.
 

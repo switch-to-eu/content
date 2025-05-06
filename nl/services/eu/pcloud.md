@@ -1,10 +1,10 @@
 ---
 name: 'pCloud'
-category: 'cloudopslag'
+category: 'storage'
 location: 'Zwitserland'
 region: 'eu'
-privacyRating: 4
 freeOption: true
+featured: true
 startingPrice: '€3,99/maand'
 description: 'Zwitserse cloudopslagdienst met sterke encryptie, eenmalige levenslange betaalopties en uitstekende mediastreaming mogelijkheden.'
 url: 'https://www.pcloud.com'
@@ -21,8 +21,6 @@ tags:
   - 'mediastreaming'
   - 'eenmalige betaling'
 ---
-
-# pCloud
 
 pCloud is een cloudopslagdienst die gevestigd is in Zwitserland en bekend staat om zijn sterke privacybeleid, optionele end-to-end encryptie, en unieke levenslange abonnementsopties.
 

@@ -3,7 +3,6 @@ name: 'pCloud'
 category: 'storage'
 location: 'Switzerland'
 region: 'eu'
-privacyRating: 4
 freeOption: true
 startingPrice: '€3.99/month'
 description: 'Secure cloud storage with European data center option and lifetime plans.'
@@ -19,8 +18,6 @@ tags:
   - 'lifetime plans'
   - 'user-friendly'
 ---
-
-# pCloud
 
 pCloud is a secure cloud storage service based in Switzerland offering both subscription and lifetime payment options. It features an EU data center option, allowing users to store their files exclusively in Europe for enhanced privacy protection.
 

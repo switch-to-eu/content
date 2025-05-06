@@ -2,8 +2,7 @@
 name: 'ProtonMail'
 category: 'email'
 location: 'Switzerland'
-region: 'eu'
-privacyRating: 5
+region: 'eu-friendly'
 freeOption: true
 startingPrice: '€3.99/month'
 description: 'End-to-end encrypted email service with strong privacy focus.'
@@ -20,8 +19,6 @@ tags:
   - 'privacy'
   - 'GDPR-compliant'
 ---
-
-# ProtonMail
 
 ProtonMail is an encrypted email service founded in 2013 at CERN by scientists who were concerned about the privacy implications of services like Gmail.
 

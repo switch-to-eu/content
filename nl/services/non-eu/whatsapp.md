@@ -3,9 +3,8 @@ name: 'WhatsApp'
 category: 'messaging'
 location: 'Verenigde Staten'
 region: 'non-eu'
-privacyRating: 2
 freeOption: true
-startingPrice: 'Gratis'
+startingPrice: false
 description: 'Populaire berichtenapp in bezit van Meta (Facebook) met end-to-end encryptie.'
 url: 'https://www.whatsapp.com/'
 featured: true
@@ -29,18 +28,8 @@ tags:
   - 'meta'
 ---
 
-# WhatsApp
-
 WhatsApp is een veelgebruikte berichtenapp in bezit van Meta (voorheen Facebook). Hoewel het end-to-end encryptie biedt voor berichten, is het gevestigd in de Verenigde Staten en onderworpen aan Amerikaanse gegevensregels in plaats van de AVG.
 
-## Belangrijkste Functies
-
-- End-to-end versleutelde berichten voor chats
-- Spraak- en videobelmogelijkheden
-- Beschikbaar op alle belangrijke platforms (mobiel en desktop)
-- Groepschats met ondersteuning voor maximaal 1024 deelnemers
-- Bestands- en mediadeling
-- Statusupdates
 
 ## Privacy en Beveiliging
 

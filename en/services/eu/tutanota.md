@@ -3,7 +3,6 @@ name: 'Tutanota'
 category: 'email'
 location: 'Germany'
 region: 'eu'
-privacyRating: 5
 freeOption: true
 startingPrice: '€1.20/month'
 description: 'Open-source encrypted email with calendar.'
@@ -19,8 +18,6 @@ tags:
   - 'open-source'
   - 'GDPR-compliant'
 ---
-
-# Tutanota
 
 Tutanota is an end-to-end encrypted email service based in Germany. The name "Tutanota" comes from Latin and means "secure message". It's fully open-source and focuses on security and privacy by design.
 

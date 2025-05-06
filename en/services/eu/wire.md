@@ -3,7 +3,6 @@ name: 'Wire'
 category: 'messaging'
 location: 'Germany/Switzerland'
 region: 'eu'
-privacyRating: 4
 freeOption: true
 startingPrice: '€4/month (Pro)'
 description: 'Secure collaboration platform with end-to-end encryption for messaging, calls, and file sharing.'
@@ -19,8 +18,6 @@ tags:
   - 'EU-based'
   - 'team-collaboration'
 ---
-
-# Wire
 
 Wire is a secure collaboration platform developed by Wire Swiss GmbH. It offers end-to-end encrypted messaging, voice/video calls, file-sharing, and team collaboration features with a focus on security and privacy for business users.
 
