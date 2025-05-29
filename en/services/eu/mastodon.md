@@ -1,13 +1,13 @@
 ---
 name: 'Mastodon'
-category: 'social'
+category: 'social-media'
 location: 'Germany'
 region: 'eu'
 freeOption: true
 startingPrice: false
 description: 'Decentralized, open-source social media platform from Germany offering community-driven networking without ads, algorithms, or corporate surveillance.'
 url: 'https://joinmastodon.org'
-featured: true
+featured: false
 features:
   - 'Decentralized federation via ActivityPub protocol'
   - 'No ads, algorithms, or data tracking'

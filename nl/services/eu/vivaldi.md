@@ -1,6 +1,6 @@
 ---
 name: 'Vivaldi'
-category: 'browser'
+category: 'browsers'
 location: 'Noorwegen'
 region: 'eu'
 freeOption: true

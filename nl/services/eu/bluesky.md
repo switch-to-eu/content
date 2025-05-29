@@ -7,7 +7,7 @@ freeOption: true
 startingPrice: '€7.50/maand '
 description: 'Gedecentraliseerd sociaal netwerk gericht op open communicatie en gebruikersbeheerde ervaring.'
 url: 'https://bsky.app'
-featured: false
+featured: true
 features:
   - 'Gedecentraliseerd sociaal netwerk'
   - 'Algoritme-keuze voor gepersonaliseerde feeds'

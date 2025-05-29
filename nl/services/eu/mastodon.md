@@ -1,13 +1,13 @@
 ---
 name: 'Mastodon'
-category: 'social'
+category: 'social-media'
 location: 'Duitsland'
 region: 'eu'
 freeOption: true
 startingPrice: false
 description: 'Gedecentraliseerd, open-source social media platform uit Duitsland dat community-gedreven netwerken biedt zonder advertenties, algoritmes of bedrijfssurveillance.'
 url: 'https://joinmastodon.org'
-featured: true
+featured: false
 features:
   - 'Gedecentraliseerde federatie via ActivityPub protocol'
   - 'Geen advertenties, algoritmes of data tracking'

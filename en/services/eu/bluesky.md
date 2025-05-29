@@ -7,7 +7,7 @@ freeOption: true
 startingPrice: 'Premium plan at ~€7.50/month'
 description: 'Decentralized social network focused on open communication and user-controlled experience.'
 url: 'https://bsky.app'
-featured: false
+featured: true
 features:
   - 'Decentralized social network'
   - 'Algorithm choice for personalized feeds'

@@ -2,12 +2,12 @@
 name: 'Waterfox'
 category: 'browsers'
 location: 'Verenigd Koninkrijk'
-region: 'eu'
+region: 'eu-friendly'
 freeOption: true
 startingPrice: false
 description: 'Een privacy-gerichte webbrowser die snelheid, controle en gebruikersgerichte functies biedt.'
 url: 'https://www.waterfox.net'
-featured: true
+featured: false
 features:
   - 'Standaard privacybescherming'
   - 'Geen telemetrie-gegevensverzameling'
