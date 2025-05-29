@@ -1,10 +1,10 @@
 ---
 name: 'Bluesky'
 category: 'social-media'
-location: 'Belgium'
-region: 'eu'
+location: 'United States'
+region: 'eu-friendly'
 freeOption: true
-startingPrice: 'Starts at ~€7.50/month'
+startingPrice: 'Premium plan at ~€7.50/month'
 description: 'Decentralized social network focused on open communication and user-controlled experience.'
 url: 'https://bsky.app'
 featured: false

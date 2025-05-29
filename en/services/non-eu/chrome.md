@@ -8,7 +8,7 @@ startingPrice: false
 description: 'Google''s popular web browser with extensive features and fast performance.'
 url: 'https://www.google.com/chrome/'
 featured: true
-recommendedAlternative: 'brave'
+recommendedAlternative: 'vivaldi'
 issues:
   - 'Collects extensive user data for Google services'
   - 'Data is stored on US servers'
