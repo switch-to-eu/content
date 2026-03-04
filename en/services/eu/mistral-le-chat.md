@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: '$14.99/month'
 description: 'European AI assistant by Mistral AI with advanced reasoning, image generation, and deep research capabilities.'
 url: 'https://chat.mistral.ai/'
+screenshot: '/images/services/mistral-le-chat.png'
 featured: true
 features:
   - 'Advanced reasoning and coding capabilities'

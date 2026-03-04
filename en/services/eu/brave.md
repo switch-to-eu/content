@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: false
 description: 'Privacy-focused browser with built-in ad and tracker blocking.'
 url: 'https://brave.com/'
+screenshot: '/images/services/brave.png'
 issues:
   - 'Based in the US, though adheres to EU privacy standards'
   - 'Cryptocurrency features may not appeal to all users'

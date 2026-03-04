@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: false
 description: 'End-to-end versleutelde berichtenuitwisseling met toonaangevende beveiliging.'
 url: 'https://signal.org/'
+screenshot: '/images/services/signal.jpg'
 featured: true
 features:
   - 'End-to-end encryptie'

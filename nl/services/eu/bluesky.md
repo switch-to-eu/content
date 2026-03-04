@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: '€7.50/maand '
 description: 'Gedecentraliseerd sociaal netwerk gericht op open communicatie en gebruikersbeheerde ervaring.'
 url: 'https://bsky.app'
+screenshot: '/images/services/bluesky.jpg'
 featured: true
 features:
   - 'Gedecentraliseerd sociaal netwerk'

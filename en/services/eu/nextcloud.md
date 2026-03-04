@@ -7,7 +7,8 @@ freeOption: true
 startingPrice: '€4/month (hosted)'
 description: 'Self-hosted or managed file sync and share platform with extensive app ecosystem.'
 url: 'https://nextcloud.com/'
-featured: true
+screenshot: '/images/services/nextcloud.png'
+featured: false
 features:
   - 'File sync & sharing'
   - 'Calendar & contacts'

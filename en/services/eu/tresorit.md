@@ -7,6 +7,7 @@ freeOption: false
 startingPrice: '€8.33/month'
 description: 'End-to-end encrypted cloud storage for maximum security and compliance.'
 url: 'https://tresorit.com/'
+screenshot: '/images/services/tresorit.png'
 features:
   - 'End-to-end encryption'
   - 'Zero-knowledge architecture'

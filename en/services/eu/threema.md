@@ -7,6 +7,7 @@ freeOption: false
 startingPrice: '€3.99 one-time'
 description: 'Swiss-based, metadata-minimizing secure messenger with anonymous usage options.'
 url: 'https://threema.ch/'
+screenshot: '/images/services/threema.png'
 features:
   - 'End-to-end encryption'
   - 'Anonymous use possible'

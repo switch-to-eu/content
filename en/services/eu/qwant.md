@@ -7,6 +7,8 @@ freeOption: true
 startingPrice: false
 description: 'European search engine that respects user privacy and doesn''t track search history.'
 url: 'https://www.qwant.com/'
+screenshot: '/images/services/qwant.png'
+featured: true
 issues:
   - 'Search results may not be as comprehensive as larger engines'
   - 'Not fully open-source'

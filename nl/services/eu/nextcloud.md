@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: '€4/maand (gehost)'
 description: 'Zelf-gehoste of beheerde bestandssynchronisatie- en deelplatform met uitgebreid app-ecosysteem.'
 url: 'https://nextcloud.com/'
+screenshot: '/images/services/nextcloud.png'
 features:
   - 'Bestandssynchronisatie & delen'
   - 'Agenda & contacten'

@@ -7,6 +7,7 @@ freeOption: false
 startingPrice: '€3.99 eenmalig'
 description: 'In Zwitserland gevestigde, metadata-minimaliserende beveiligde messenger met anonieme gebruiksopties.'
 url: 'https://threema.ch/'
+screenshot: '/images/services/threema.png'
 features:
   - 'End-to-end encryptie'
   - 'Anoniem gebruik mogelijk'

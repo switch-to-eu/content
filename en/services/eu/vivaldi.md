@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: false
 description: 'Highly customizable, privacy-focused browser from Norway with extensive built-in features and powerful personalization options.'
 url: 'https://vivaldi.com'
+screenshot: '/images/services/vivaldi.png'
 featured: true
 features:
   - 'Built-in ad blocker and tracker protection'

@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: false
 description: 'Gratis, open-source, privacy-eerst navigatie-app met volledig offline kaarten op basis van OpenStreetMap.'
 url: 'https://organicmaps.app/'
+screenshot: '/images/services/organic-maps.jpg'
 features:
   - 'Volledig offline kaarten en navigatie'
   - 'Stapsgewijze routebeschrijving voor auto, fiets en wandelen'

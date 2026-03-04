@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: false
 description: 'Anonieme berichtenapp die onion routing gebruikt zonder telefoonnummers of e-mail te vereisen.'
 url: 'https://getsession.org/'
+screenshot: '/images/services/session.jpg'
 features:
   - 'End-to-end encryptie'
   - 'Onion routing netwerk'

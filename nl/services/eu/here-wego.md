@@ -7,6 +7,8 @@ freeOption: true
 startingPrice: false
 description: 'Gratis navigatie-app uit Nederland met offline kaarten, openbaar vervoer en multimodale routeplanning.'
 url: 'https://wego.here.com/'
+screenshot: '/images/services/here-wego.webp'
+featured: true
 features:
   - 'Stapsgewijze navigatie voor auto, wandelen en fietsen'
   - 'Openbaar vervoer routering met realtime vertrekinformatie'

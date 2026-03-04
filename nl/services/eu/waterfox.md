@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: false
 description: 'Een privacy-gerichte webbrowser die snelheid, controle en gebruikersgerichte functies biedt.'
 url: 'https://www.waterfox.net'
+screenshot: '/images/services/waterfox.png'
 featured: false
 features:
   - 'Standaard privacybescherming'

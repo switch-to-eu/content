@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: '$12,99/maand'
 description: 'Privacygerichte AI-assistent van Proton met zero-access encryptie en open-source modellen.'
 url: 'https://lumo.proton.me/'
+screenshot: '/images/services/proton-lumo.webp'
 features:
   - 'Zero-access encryptie op alle gesprekken'
   - 'Ghost-modus voor tijdelijke chats'

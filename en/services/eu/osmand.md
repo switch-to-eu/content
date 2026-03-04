@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: '€3.99/month'
 description: 'Feature-rich offline navigation and mapping app from the Netherlands, built on OpenStreetMap.'
 url: 'https://osmand.net/'
+screenshot: '/images/services/osmand.png'
 features:
   - 'Detailed offline maps based on OpenStreetMap'
   - 'Turn-by-turn navigation for car, bike, and walking'

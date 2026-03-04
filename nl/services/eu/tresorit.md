@@ -7,6 +7,7 @@ freeOption: false
 startingPrice: '€8,33/maand'
 description: 'End-to-end versleutelde cloudopslagdienst gericht op beveiliging en compliance, met zero-knowledge beveiliging en geavanceerde deling van bestanden.'
 url: 'https://tresorit.com'
+screenshot: '/images/services/tresorit.png'
 features:
   - 'End-to-end encryptie'
   - 'Zero-knowledge architectuur'

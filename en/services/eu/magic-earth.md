@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: false
 description: 'Free, privacy-focused navigation app from Hungary with real-time traffic, turn-by-turn directions, and offline maps.'
 url: 'https://www.magicearth.com/'
+screenshot: '/images/services/magic-earth.jpg'
 features:
   - 'Turn-by-turn navigation with real-time traffic'
   - 'Offline maps for any country'

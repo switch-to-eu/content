@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: false
 description: 'Anonymous messaging app using onion routing without requiring phone numbers or email.'
 url: 'https://getsession.org/'
+screenshot: '/images/services/session.jpg'
 features:
   - 'End-to-end encryption'
   - 'Onion routing network'

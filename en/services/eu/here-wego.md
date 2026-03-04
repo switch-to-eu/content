@@ -7,6 +7,8 @@ freeOption: true
 startingPrice: false
 description: 'Free navigation app from the Netherlands with offline maps, public transit, and multi-modal routing.'
 url: 'https://wego.here.com/'
+screenshot: '/images/services/here-wego.webp'
+featured: true
 features:
   - 'Turn-by-turn navigation for driving, walking, and cycling'
   - 'Public transit routing with real-time departure info'

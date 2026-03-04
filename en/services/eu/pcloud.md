@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: '€3.99/month'
 description: 'Secure cloud storage with European data center option and lifetime plans.'
 url: 'https://www.pcloud.com/'
+screenshot: '/images/services/pcloud.jpg'
 features:
   - 'File sync & sharing'
   - 'Client-side encryption (optional)'

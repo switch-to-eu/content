@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: '€5/month (hosted)'
 description: 'Secure, decentralized messaging based on the Matrix protocol with self-hosting options.'
 url: 'https://element.io/'
+screenshot: '/images/services/element.png'
 features:
   - 'End-to-end encryption'
   - 'Decentralized architecture'

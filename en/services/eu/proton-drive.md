@@ -7,7 +7,8 @@ freeOption: true
 startingPrice: '€3.99/month'
 description: 'End-to-end encrypted cloud storage from Swiss privacy pioneers, offering secure file sharing and collaboration with zero-access encryption.'
 url: 'https://proton.me/drive'
-featured: false
+screenshot: '/images/services/proton-drive.png'
+featured: true
 features:
   - 'End-to-end encryption for all files and metadata'
   - 'Zero-access encryption - even Proton cannot access your data'

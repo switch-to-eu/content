@@ -8,6 +8,7 @@ featured: true
 startingPrice: '€3,99/maand'
 description: 'Zwitserse cloudopslagdienst met sterke encryptie, eenmalige levenslange betaalopties en uitstekende mediastreaming mogelijkheden.'
 url: 'https://www.pcloud.com'
+screenshot: '/images/services/pcloud.jpg'
 features:
   - 'End-to-end encryptie (betaalde add-on)'
   - 'Levenslange abonnementen'

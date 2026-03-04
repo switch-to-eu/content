@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: '$14,99/maand'
 description: 'Europese AI-assistent van Mistral AI met geavanceerd redeneren, beeldgeneratie en uitgebreide onderzoeksmogelijkheden.'
 url: 'https://chat.mistral.ai/'
+screenshot: '/images/services/mistral-le-chat.png'
 featured: true
 features:
   - 'Geavanceerd redeneren en programmeren'

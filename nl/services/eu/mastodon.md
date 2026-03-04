@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: false
 description: 'Gedecentraliseerd, open-source social media platform uit Duitsland dat community-gedreven netwerken biedt zonder advertenties, algoritmes of bedrijfssurveillance.'
 url: 'https://joinmastodon.org'
+screenshot: '/images/services/mastodon.jpg'
 featured: false
 features:
   - 'Gedecentraliseerde federatie via ActivityPub protocol'

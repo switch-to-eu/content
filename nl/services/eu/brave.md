@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: false
 description: 'Privacygerichte browser met ingebouwde ad- en trackerblokkering.'
 url: 'https://brave.com/'
+screenshot: '/images/services/brave.png'
 issues:
   - 'Gevestigd in de VS, maar houdt zich aan Europese privacynormen'
   - 'Cryptocurrency-functies vallen mogelijk niet bij alle gebruikers in de smaak'

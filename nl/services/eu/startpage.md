@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: false
 description: 'Privacygerichte zoekmachine die Google-zoekresultaten levert zonder persoonlijke gegevens te volgen of op te slaan.'
 url: 'https://www.startpage.com/'
+screenshot: '/images/services/startpage.png'
 issues:
   - 'Meerderheidsbelang in handen van System1, een Amerikaans reclamebedrijf'
   - 'Nederland maakt deel uit van de Nine Eyes surveillance-alliantie'

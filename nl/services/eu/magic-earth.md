@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: false
 description: 'Gratis, privacygerichte navigatie-app uit Hongarije met realtime verkeersinformatie, stapsgewijze routebeschrijving en offline kaarten.'
 url: 'https://www.magicearth.com/'
+screenshot: '/images/services/magic-earth.jpg'
 features:
   - 'Stapsgewijze navigatie met realtime verkeersinformatie'
   - 'Offline kaarten voor elk land'

@@ -7,7 +7,8 @@ freeOption: true
 startingPrice: '€3.99/month'
 description: 'End-to-end versleutelde cloudopslag van Zwitserse privacypioniers, met veilige bestandsdeling en samenwerking met zero-access encryptie.'
 url: 'https://proton.me/drive'
-featured: false
+screenshot: '/images/services/proton-drive.png'
+featured: true
 features:
   - 'End-to-end encryptie voor alle bestanden en metadata'
   - 'Zero-access encryptie - zelfs Proton heeft geen toegang tot je data'

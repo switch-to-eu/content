@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: false
 description: 'Privacy-focused search engine that delivers Google search results without tracking or storing personal data.'
 url: 'https://www.startpage.com/'
+screenshot: '/images/services/startpage.png'
 issues:
   - 'Majority stake owned by System1, a US-based advertising company'
   - 'Netherlands is part of the Nine Eyes surveillance alliance'

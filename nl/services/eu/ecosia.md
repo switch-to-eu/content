@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: false
 description: 'Milieuvriendelijke zoekmachine die advertentie-inkomsten gebruikt om bomen te planten en klimaatactieprojecten wereldwijd te financieren.'
 url: 'https://www.ecosia.org/'
+screenshot: '/images/services/ecosia.png'
 issues:
   - 'Zoekresultaten aangedreven door Bing, mogelijk minder goed dan Google voor complexe zoekopdrachten'
   - 'Sommige gegevens gedeeld met zoekpartners (Microsoft Bing) voor functionaliteit'

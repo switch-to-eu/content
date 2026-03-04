@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: '€5/maand (gehost)'
 description: 'Veilige, gedecentraliseerde berichtenuitwisseling gebaseerd op het Matrix-protocol met zelf-hosting opties.'
 url: 'https://element.io/'
+screenshot: '/images/services/element.png'
 features:
   - 'End-to-end encryptie'
   - 'Gedecentraliseerde architectuur'

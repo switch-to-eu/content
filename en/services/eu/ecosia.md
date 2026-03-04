@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: false
 description: 'Eco-friendly search engine that uses ad revenue to plant trees and fund climate action projects worldwide.'
 url: 'https://www.ecosia.org/'
+screenshot: '/images/services/ecosia.png'
 issues:
   - 'Search results powered by Bing, may not match Google quality for complex queries'
   - 'Some data shared with search partners (Microsoft Bing) for functionality'

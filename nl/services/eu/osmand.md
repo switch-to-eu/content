@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: '€3.99/maand'
 description: 'Uitgebreide offline navigatie- en kaartapp uit Nederland, gebouwd op OpenStreetMap.'
 url: 'https://osmand.net/'
+screenshot: '/images/services/osmand.png'
 features:
   - 'Gedetailleerde offline kaarten op basis van OpenStreetMap'
   - 'Stapsgewijze navigatie voor auto, fiets en wandelen'

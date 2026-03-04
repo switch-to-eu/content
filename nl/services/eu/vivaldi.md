@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: false
 description: 'Zeer aanpasbare, privacy-gerichte browser uit Noorwegen met uitgebreide ingebouwde functies en krachtige personalisatieopties.'
 url: 'https://vivaldi.com'
+screenshot: '/images/services/vivaldi.png'
 featured: true
 features:
   - 'Ingebouwde adblocker en tracker-bescherming'

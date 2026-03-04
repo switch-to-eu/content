@@ -7,6 +7,8 @@ freeOption: true
 startingPrice: false
 description: 'Europese zoekmachine die de privacy van gebruikers respecteert en zoekgeschiedenis niet bijhoudt.'
 url: 'https://www.qwant.com/'
+screenshot: '/images/services/qwant.png'
+featured: true
 issues:
   - 'Zoekresultaten zijn mogelijk niet zo uitgebreid als bij grotere zoekmachines'
   - 'Niet volledig open-source'

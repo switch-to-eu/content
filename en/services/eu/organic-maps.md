@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: false
 description: 'Free, open-source, privacy-first navigation app with fully offline maps based on OpenStreetMap.'
 url: 'https://organicmaps.app/'
+screenshot: '/images/services/organic-maps.jpg'
 features:
   - 'Fully offline maps and navigation'
   - 'Turn-by-turn directions for driving, cycling, and walking'
