@@ -1,6 +1,6 @@
 ---
 title: Cloudopslagdiensten
-description: Veilige cloudopslag-alternatieven gevestigd in Europa waarmee je bestanden kunt opslaan, synchroniseren en delen met verbeterde privacy.
+description: Bewaar je bestanden veilig en toegankelijk, met encryptie en hosting die in Europa blijft.
 icon: folder
 ---
 

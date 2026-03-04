@@ -2,11 +2,12 @@
 name: 'ProtonMail'
 category: 'email'
 location: 'Zwitserland'
-region: 'eu'
+region: 'eu-friendly'
 freeOption: true
 startingPrice: '€3.99/maand'
 description: 'End-to-end versleutelde e-maildienst met sterke focus op privacy.'
 url: 'https://proton.me/mail'
+screenshot: '/images/services/protonmail.jpg'
 featured: true
 features:
   - 'End-to-end encryptie'

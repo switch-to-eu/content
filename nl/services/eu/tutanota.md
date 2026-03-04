@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: '€1.20/maand'
 description: 'Open-source versleutelde e-mail met agenda.'
 url: 'https://tutanota.com'
+screenshot: '/images/services/tutanota.png'
 features:
   - 'End-to-end encryptie'
   - 'Versleuteld adresboek en agenda'

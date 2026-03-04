@@ -1,6 +1,6 @@
 ---
 title: Email Services
-description: Secure and privacy-focused email providers based in the EU that offer alternatives to mainstream services like Gmail.
+description: Your inbox, not an ad platform. EU email providers with encryption, custom domains, and real privacy.
 icon: mail
 ---
 

@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: '€5.35/month'
 description: 'Zwitserse professionele e-mailservice met AI-aangedreven functies, onbeperkte opslag en uitgebreide business productiviteitstools van werknemers-eigendom Infomaniak.'
 url: 'https://www.infomaniak.com/en/ksuite/service-mail'
+screenshot: '/images/services/infomaniak.jpg'
 featured: false
 features:
   - 'Zwitserse soevereine e-mail hosting met data exclusief in Zwitserland'

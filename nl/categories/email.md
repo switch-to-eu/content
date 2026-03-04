@@ -1,6 +1,6 @@
 ---
 title: E-maildiensten
-description: Veilige en privacygerichte e-mailproviders gevestigd in de EU die alternatieven bieden voor veelgebruikte diensten zoals Gmail.
+description: Jouw inbox, geen advertentieplatform. Europese e-mailproviders met encryptie, eigen domeinen en echte privacy.
 icon: mail
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Webbrowsers
-description: Privacygerichte en veilige webbrowsers die in de EU zijn ontwikkeld als alternatieven voor populaire browserdiensten.
+description: Snelle, volledig uitgeruste browsers uit Europa met trackingbescherming die standaard aanstaat.
 icon: globe
 ---
 

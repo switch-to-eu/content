@@ -7,6 +7,7 @@ freeOption: false
 startingPrice: '€1/month'
 description: 'Privacy-focused email with office features.'
 url: 'https://mailbox.org'
+screenshot: '/images/services/mailbox-org.png'
 features:
   - 'Encrypted mailbox'
   - 'Office suite integration'

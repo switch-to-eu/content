@@ -1,6 +1,6 @@
 ---
 title: Berichtenapps
-description: Veilige, privacygerichte berichtenapplicaties gevestigd in Europa die alternatieven bieden voor gangbare chatdiensten.
+description: End-to-end versleutelde chat, bellen en bestanden delen zonder dat je gesprekken worden gebruikt voor advertenties.
 icon: message-square
 ---
 

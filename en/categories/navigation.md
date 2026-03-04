@@ -1,6 +1,6 @@
 ---
 title: Navigation
-description: Privacy-respecting navigation and mapping apps developed in Europe as alternatives to Google Maps and Waze.
+description: Find your way with apps built on open map data. No tracking where you go, live, or work.
 icon: map-pin
 ---
 

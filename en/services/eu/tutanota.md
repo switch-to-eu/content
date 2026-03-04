@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: '€1.20/month'
 description: 'Open-source encrypted email with calendar.'
 url: 'https://tutanota.com'
+screenshot: '/images/services/tutanota.png'
 features:
   - 'End-to-end encryption'
   - 'Encrypted address book and calendar'

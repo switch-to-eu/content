@@ -1,6 +1,6 @@
 ---
 title: Zoekmachines
-description: Privacygerichte zoekmachines die in de EU zijn ontwikkeld als alternatieven voor populaire zoekdiensten.
+description: Vind wat je zoekt zonder gevolgd te worden. Geen filterbubbels, geen advertentieprofielen, geen surveillance.
 icon: search
 ---
 

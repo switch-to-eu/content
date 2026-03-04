@@ -1,6 +1,6 @@
 ---
 title: Messaging Apps
-description: Secure, private messaging applications based in Europe offering alternatives to mainstream chat services.
+description: End-to-end encrypted chat, calls, and file sharing without mining your conversations for ads.
 icon: message-square
 ---
 

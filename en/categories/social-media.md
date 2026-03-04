@@ -1,6 +1,6 @@
 ---
 title: Social Media
-description: Privacy-friendly social media platforms based in the EU that offer alternatives to major international networks.
+description: Social networks that respect your attention. Less data collection, more control over what you see.
 icon: users
 ---
 

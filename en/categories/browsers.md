@@ -1,6 +1,6 @@
 ---
 title: Web Browsers
-description: Privacy-focused and secure web browsers developed in the EU as alternatives to popular browsing services.
+description: Fast, full-featured browsers built in Europe with tracking protection on from the start.
 icon: globe
 ---
 

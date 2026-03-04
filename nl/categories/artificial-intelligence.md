@@ -1,6 +1,6 @@
 ---
 title: Kunstmatige Intelligentie
-description: Privacyvriendelijke AI-tools en -platformen die in de EU zijn ontwikkeld als alternatieven voor gangbare AI-diensten.
+description: In de EU gebouwde AI-assistenten, beeldgeneratoren en taalmodellen die niet zonder toestemming op jouw data trainen.
 icon: brain
 ---
 

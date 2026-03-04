@@ -1,6 +1,6 @@
 ---
 title: Navigatie
-description: Privacyvriendelijke navigatie- en kaartapps ontwikkeld in Europa als alternatieven voor Google Maps en Waze.
+description: Vind je weg met apps gebouwd op open kaartdata. Geen tracking van waar je heen gaat, woont of werkt.
 icon: map-pin
 ---
 

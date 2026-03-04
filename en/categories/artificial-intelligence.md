@@ -1,6 +1,6 @@
 ---
 title: Artificial Intelligence
-description: Privacy-respecting AI tools and platforms developed in the EU as alternatives to mainstream AI services.
+description: EU-built AI assistants, image generators, and language models that don't train on your data without consent.
 icon: brain
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Cloud Storage Services
-description: Secure cloud storage alternatives based in Europe that let you store, sync and share files with enhanced privacy.
+description: Keep your files safe and accessible, with encryption and hosting that stays in Europe.
 icon: folder
 ---
 

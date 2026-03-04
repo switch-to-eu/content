@@ -1,6 +1,6 @@
 ---
 title: Search Engines
-description: Privacy-focused search engines developed in the EU as alternatives to popular search services.
+description: Find what you need without being tracked. No filter bubbles, no ad profiles, no surveillance.
 icon: search
 ---
 

@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: '€3.99/month'
 description: 'End-to-end encrypted email service with strong privacy focus.'
 url: 'https://proton.me/mail'
+screenshot: '/images/services/protonmail.jpg'
 featured: true
 features:
   - 'End-to-end encryption'

@@ -7,6 +7,7 @@ freeOption: false
 startingPrice: '€1/maand'
 description: 'Privacygerichte e-mail met kantoorfuncties.'
 url: 'https://mailbox.org'
+screenshot: '/images/services/mailbox-org.png'
 features:
   - 'Versleutelde mailbox'
   - 'Kantoorpakket integratie'

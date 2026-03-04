@@ -1,6 +1,6 @@
 ---
 title: Sociale media
-description: Privacyvriendelijke sociale mediaplatforms gevestigd in de EU die alternatieven bieden voor de grote internationale netwerken.
+description: Sociale netwerken die je aandacht respecteren. Minder dataverzameling, meer controle over wat je ziet.
 icon: users
 ---
 

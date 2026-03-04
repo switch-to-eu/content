@@ -7,6 +7,7 @@ freeOption: true
 startingPrice: '€5.35/month'
 description: 'Swiss professional email service with AI-powered features, unlimited storage, and comprehensive business productivity tools from employee-owned Infomaniak.'
 url: 'https://www.infomaniak.com/en/ksuite/service-mail'
+screenshot: '/images/services/infomaniak.jpg'
 featured: false
 features:
   - 'Swiss sovereign email hosting with data exclusively in Switzerland'
