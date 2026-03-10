@@ -56,10 +56,10 @@ After the optimizer finishes, summarize:
    - Writing: [sections changed], [word count change]
    - SEO: [changes made]
 
-2. Create a git commit:
-   "content: update [service-name] — researched, fact-checked, rewritten, SEO optimized"
-
-3. Tell me: "Pipeline complete. Review the page and trace any changes via:
+2. Tell me: "Pipeline complete. Review the page and trace any changes via:
    - `.research/[service-name].md` (research with evidence table)
    - `.research/[service-name].brief.md` (analyst brief with fact-check)
-   - `.research/[service-name].changelog.md` (all changes made)"
+   - `.research/[service-name].changelog.md` (all changes made)
+
+   When satisfied, commit with:
+   `content: update [service-name] — researched, fact-checked, rewritten, SEO optimized`"

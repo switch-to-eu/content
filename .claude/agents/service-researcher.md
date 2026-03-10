@@ -50,10 +50,7 @@ Before searching, create a research plan with these query categories:
 Execute queries using WebSearch. For important results, use WebFetch to read full pages and extract specific facts.
 
 **Reddit access strategy** (Reddit often blocks direct WebFetch with 403):
-1. First try WebSearch with site-specific queries like "[service] site:reddit.com" — search snippets often contain the key opinions
-2. Try WebFetch on old.reddit.com URLs if direct reddit.com fails
-3. If Reddit is entirely blocked, note this limitation and work from search snippets only
-4. Focus on recurring themes and sentiment patterns, not individual opinions
+Follow the Reddit 403 fallback strategy from the service-research skill. Focus on recurring themes and sentiment patterns, not individual opinions.
 
 For each fact gathered, record it in an evidence table:
 
